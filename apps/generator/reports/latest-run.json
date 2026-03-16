@@ -1,0 +1,42 @@
+{
+  "startedAt": "2026-03-16T07:00:00.457Z",
+  "source": "bulk-file:/home/tre/projects/commerce-autopilot/apps/generator/data/home-office-topics.txt",
+  "dryRun": true,
+  "totals": {
+    "received": 5,
+    "processed": 5,
+    "created": 5,
+    "skippedDuplicates": 0,
+    "failedValidation": 0
+  },
+  "created": [
+    {
+      "topic": "Best Standing Desk For Small Spaces",
+      "slug": "best-standing-desk-for-small-spaces",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Budget Office Chair For Back Support",
+      "slug": "best-budget-office-chair-for-back-support",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Monitor Arm For Dual Screens",
+      "slug": "best-monitor-arm-for-dual-screens",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Desk Lamp For Long Work Sessions",
+      "slug": "best-desk-lamp-for-long-work-sessions",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Laptop Stand For Remote Work",
+      "slug": "best-laptop-stand-for-remote-work",
+      "category": "Home Office"
+    }
+  ],
+  "skippedDuplicates": [],
+  "failedValidation": [],
+  "finishedAt": "2026-03-16T07:00:00.459Z"
+}

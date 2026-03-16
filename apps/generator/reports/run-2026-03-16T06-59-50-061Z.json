@@ -1,0 +1,32 @@
+{
+  "startedAt": "2026-03-16T06:59:50.056Z",
+  "source": "csv-inline",
+  "dryRun": false,
+  "totals": {
+    "received": 3,
+    "processed": 3,
+    "created": 3,
+    "skippedDuplicates": 0,
+    "failedValidation": 0
+  },
+  "created": [
+    {
+      "topic": "Best Laptop Stand For Travel",
+      "slug": "best-laptop-stand-for-travel",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Car Vacuum For Small Cars",
+      "slug": "best-car-vacuum-for-small-cars",
+      "category": "Automotive"
+    },
+    {
+      "topic": "Best Dog Seat Cover For SUV",
+      "slug": "best-dog-seat-cover-for-suv",
+      "category": "Pets"
+    }
+  ],
+  "skippedDuplicates": [],
+  "failedValidation": [],
+  "finishedAt": "2026-03-16T06:59:50.061Z"
+}

@@ -1,18 +1,19 @@
-import { runGeneration } from "./lib/generation-engine.js";
+import { loadTopicsFromCsv, runGeneration } from "./lib/generation-engine.js";
 
 const args = process.argv.slice(2);
 const dryRun = args.includes("--dry-run");
-const topicArgs = args.filter((arg) => arg !== "--dry-run");
-const topic = topicArgs.join(" ").trim();
+const csv = args.filter((arg) => arg !== "--dry-run").join(" ").trim();
 
-if (!topic) {
-  console.error('Please provide a topic, for example: pnpm generate "Best Budget Office Chair"');
+if (!csv) {
+  console.error('Please provide a comma-separated topic list, for example: pnpm generate:many "Best Desk Lamp, Best Office Chair, Best Monitor Arm"');
   process.exit(1);
 }
 
+const topics = loadTopicsFromCsv(csv);
+
 const report = await runGeneration({
-  topics: [topic],
-  source: "single-topic-cli",
+  topics,
+  source: "csv-inline",
   dryRun
 });
 
@@ -28,6 +29,7 @@ for (const item of report.failedValidation) {
   console.log(`Validation failed: ${item.topic || "(empty topic)"} -> ${item.errors.join("; ")}`);
 }
 
+console.log(`Processed: ${report.totals.processed}`);
 console.log(`Created: ${report.totals.created}`);
 console.log(`Duplicates skipped: ${report.totals.skippedDuplicates}`);
 console.log(`Validation failures: ${report.totals.failedValidation}`);

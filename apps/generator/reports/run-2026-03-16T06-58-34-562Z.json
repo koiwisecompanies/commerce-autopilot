@@ -1,0 +1,21 @@
+{
+  "startedAt": "2026-03-16T06:58:34.559Z",
+  "source": "single-topic-cli",
+  "dryRun": false,
+  "totals": {
+    "received": 1,
+    "processed": 1,
+    "created": 0,
+    "skippedDuplicates": 1,
+    "failedValidation": 0
+  },
+  "created": [],
+  "skippedDuplicates": [
+    {
+      "topic": "Best Wireless Mouse For Small Hands",
+      "slug": "best-wireless-mouse-for-small-hands"
+    }
+  ],
+  "failedValidation": [],
+  "finishedAt": "2026-03-16T06:58:34.562Z"
+}

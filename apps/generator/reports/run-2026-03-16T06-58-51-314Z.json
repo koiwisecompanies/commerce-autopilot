@@ -1,0 +1,42 @@
+{
+  "startedAt": "2026-03-16T06:58:51.310Z",
+  "source": "bulk-file:/home/tre/projects/commerce-autopilot/apps/generator/data/sample-topics.txt",
+  "dryRun": false,
+  "totals": {
+    "received": 5,
+    "processed": 5,
+    "created": 5,
+    "skippedDuplicates": 0,
+    "failedValidation": 0
+  },
+  "created": [
+    {
+      "topic": "Best Budget Mechanical Keyboard",
+      "slug": "best-budget-mechanical-keyboard",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Travel Backpack For Work",
+      "slug": "best-travel-backpack-for-work",
+      "category": "Outdoors"
+    },
+    {
+      "topic": "Best Cat Water Fountain",
+      "slug": "best-cat-water-fountain",
+      "category": "Pets"
+    },
+    {
+      "topic": "Best Portable Monitor For Travel",
+      "slug": "best-portable-monitor-for-travel",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Desk Lamp For Small Office",
+      "slug": "best-desk-lamp-for-small-office",
+      "category": "Home Office"
+    }
+  ],
+  "skippedDuplicates": [],
+  "failedValidation": [],
+  "finishedAt": "2026-03-16T06:58:51.314Z"
+}
