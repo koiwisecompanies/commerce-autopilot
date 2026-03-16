@@ -1,0 +1,58 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import GuideCard from "../../components/GuideCard.astro";
+import { getAllCategories, getGuidesByCategorySlug } from "../../lib/categories.js";
+import { getCategoryUrl } from "../../lib/routes.js";
+
+export async function getStaticPaths() {
+  return getAllCategories().map((category) => ({
+    params: { slug: category.slug },
+    props: { category }
+  }));
+}
+
+const { category } = Astro.props;
+const guides = getGuidesByCategorySlug(category.slug);
+
+const breadcrumbItems = [
+  { label: "Home", href: "/" },
+  { label: "Categories", href: "/" },
+  { label: category.name, href: getCategoryUrl(category.slug) }
+];
+
+const collectionStructuredData = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": category.title,
+  "description": category.description,
+  "url": `http://localhost:4321${getCategoryUrl(category.slug)}`
+};
+---
+
+<BaseLayout
+  title={category.title}
+  description={category.description}
+  path={getCategoryUrl(category.slug)}
+  type="website"
+>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(collectionStructuredData)} />
+  </Fragment>
+
+  <main class="container">
+    <Breadcrumbs items={breadcrumbItems} />
+
+    <section class="section-header">
+      <p class="eyebrow">Category</p>
+      <h1 class="section-title">{category.title}</h1>
+      <p class="section-copy">{category.description}</p>
+    </section>
+
+    <div class="grid grid-3">
+      {guides.map((guide) => (
+        <GuideCard guide={guide} />
+      ))}
+    </div>
+  </main>
+</BaseLayout>

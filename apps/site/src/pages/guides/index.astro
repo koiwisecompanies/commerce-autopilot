@@ -1,0 +1,36 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import GuideCard from "../../components/GuideCard.astro";
+import { getAllGuides } from "../../lib/guides.js";
+
+const guides = getAllGuides().sort((a, b) => a.title.localeCompare(b.title));
+
+const breadcrumbItems = [
+  { label: "Home", href: "/" },
+  { label: "Guides", href: "/guides" }
+];
+---
+
+<BaseLayout
+  title="All Guides"
+  description="Browse all live buyer-intent guides currently published on Smart Product Picks."
+  path="/guides"
+  type="website"
+>
+  <main class="container">
+    <Breadcrumbs items={breadcrumbItems} />
+
+    <section class="section-header">
+      <p class="eyebrow">Guide Index</p>
+      <h1 class="section-title">All Guides</h1>
+      <p class="section-copy">A crawlable guide index improves discoverability and gives users a direct way to browse published content.</p>
+    </section>
+
+    <div class="grid grid-3">
+      {guides.map((guide) => (
+        <GuideCard guide={guide} />
+      ))}
+    </div>
+  </main>
+</BaseLayout>

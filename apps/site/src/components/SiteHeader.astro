@@ -1,8 +1,16 @@
 ---
+import { getAllCategories } from "../lib/categories.js";
+import { getCategoryUrl } from "../lib/routes.js";
+
+const categories = getAllCategories().slice(0, 6);
+
 const navItems = [
   { label: "Home", href: "/" },
-  { label: "Guides", href: "/#featured-guides" },
-  { label: "Categories", href: "/#categories" }
+  { label: "Guides", href: "/guides" },
+  ...categories.map((category) => ({
+    label: category.name,
+    href: getCategoryUrl(category.slug)
+  }))
 ];
 ---
 
@@ -52,6 +60,7 @@ const navItems = [
     font-weight: 800;
     font-size: 1rem;
     letter-spacing: -0.02em;
+    flex-shrink: 0;
   }
 
   .brand-mark {
@@ -74,6 +83,7 @@ const navItems = [
     display: flex;
     gap: 18px;
     flex-wrap: wrap;
+    justify-content: flex-end;
   }
 
   .nav-list a {
@@ -86,10 +96,14 @@ const navItems = [
     color: #0f172a;
   }
 
-  @media (max-width: 720px) {
+  @media (max-width: 880px) {
     .inner {
       flex-direction: column;
       align-items: flex-start;
+    }
+
+    .nav-list {
+      justify-content: flex-start;
     }
   }
 </style>

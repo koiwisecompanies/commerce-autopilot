@@ -1,8 +1,12 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
-import guides from "../data/guides.json";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import GuideCard from "../components/GuideCard.astro";
+import { getRelatedGuides } from "../lib/guides.js";
+import { getGuideUrl, getCategoryUrl, slugifyCategory, getOutboundUrl } from "../lib/routes.js";
 
 const {
+  slug,
   title,
   description,
   intro,
@@ -13,13 +17,52 @@ const {
   category = "Guide"
 } = Astro.props;
 
-const relatedGuides = guides
-  .filter((guide) => guide.title !== title)
-  .slice(0, 3);
+const relatedGuides = getRelatedGuides({ slug, title, category }, 3);
+const categorySlug = slugifyCategory(category);
+
+const breadcrumbItems = [
+  { label: "Home", href: "/" },
+  { label: "Guides", href: "/guides" },
+  { label: category, href: getCategoryUrl(categorySlug) },
+  { label: title, href: getGuideUrl(slug) }
+];
+
+const faqStructuredData = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": faqQuestion,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faqAnswer
+      }
+    }
+  ]
+};
+
+const breadcrumbStructuredData = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": breadcrumbItems.map((item, index) => ({
+    "@type": "ListItem",
+    "position": index + 1,
+    "name": item.label,
+    "item": `http://localhost:4321${item.href}`
+  }))
+};
 ---
 
-<BaseLayout title={title} description={description}>
+<BaseLayout title={title} description={description} path={getGuideUrl(slug)} type="article">
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify(faqStructuredData)} />
+    <script type="application/ld+json" set:html={JSON.stringify(breadcrumbStructuredData)} />
+  </Fragment>
+
   <main class="container">
+    <Breadcrumbs items={breadcrumbItems} />
+
     <section class="guide-hero">
       <div class="guide-copy">
         <p class="eyebrow">{category}</p>
@@ -30,8 +73,9 @@ const relatedGuides = guides
       <aside class="hero-side panel">
         <h2>Quick Take</h2>
         <p>
-          This guide highlights top options, key buying factors, and a short FAQ so visitors can move from search to decision faster.
+          This guide highlights top options, key buying factors, and adjacent pages so users can move from search to decision quickly.
         </p>
+        <a class="text-link" href="/guides">Browse all guides</a>
       </aside>
     </section>
 
@@ -47,7 +91,7 @@ const relatedGuides = guides
             <p class="eyebrow">Pick #{index + 1}</p>
             <h3>{product.title}</h3>
             <p>{product.description}</p>
-            <a class="deal-btn" href={product.link}>View Deal</a>
+            <a class="deal-btn" href={getOutboundUrl("merchant", `${slug}-product-${index + 1}`)}>View Deal</a>
           </article>
         ))}
       </div>
@@ -68,18 +112,13 @@ const relatedGuides = guides
 
     <section class="guide-section">
       <div class="section-header">
-        <h2 class="section-title">Related Guides</h2>
-        <p class="section-copy">Keep visitors moving deeper into the site with adjacent buying-intent pages.</p>
+        <h2 class="section-title">Explore More in {category}</h2>
+        <p class="section-copy">Keep authority and user flow moving with related pages.</p>
       </div>
 
       <div class="grid grid-3">
         {relatedGuides.map((guide) => (
-          <article class="related-card panel">
-            <p class="eyebrow">{guide.category}</p>
-            <h3>{guide.title}</h3>
-            <p>{guide.description}</p>
-            <a class="text-link" href={`/guides/${guide.slug}`}>Read guide</a>
-          </article>
+          <GuideCard guide={guide} />
         ))}
       </div>
     </section>
@@ -111,15 +150,13 @@ const relatedGuides = guides
 
   .hero-side h2,
   .content-panel h2,
-  .product-panel h3,
-  .related-card h3 {
+  .product-panel h3 {
     margin-top: 0;
   }
 
   .hero-side p,
   .content-panel p,
-  .product-panel p,
-  .related-card p {
+  .product-panel p {
     color: #475569;
     line-height: 1.75;
   }

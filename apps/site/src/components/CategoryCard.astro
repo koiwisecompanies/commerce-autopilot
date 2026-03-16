@@ -1,0 +1,80 @@
+---
+import { getCategoryUrl } from "../lib/routes.js";
+
+const { category } = Astro.props;
+---
+
+<article class="category-card">
+  <p class="eyebrow">Category</p>
+  <h3><a href={getCategoryUrl(category.slug)}>{category.name}</a></h3>
+  <p>{category.description}</p>
+  <div class="meta">
+    <span>{category.count} guide{category.count === 1 ? "" : "s"}</span>
+    <a href={getCategoryUrl(category.slug)}>Browse category</a>
+  </div>
+</article>
+
+<style>
+  .category-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 18px;
+    padding: 24px;
+    box-shadow: 0 12px 30px rgba(15, 23, 42, 0.04);
+    min-height: 100%;
+  }
+
+  .eyebrow {
+    margin: 0 0 10px;
+    font-size: 0.78rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #2563eb;
+  }
+
+  h3 {
+    margin: 0 0 12px;
+    font-size: 1.35rem;
+    line-height: 1.2;
+  }
+
+  h3 a {
+    color: #0f172a;
+    text-decoration: none;
+  }
+
+  h3 a:hover {
+    color: #2563eb;
+  }
+
+  p {
+    margin: 0;
+    color: #475569;
+    line-height: 1.7;
+  }
+
+  .meta {
+    margin-top: 18px;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .meta span {
+    color: #64748b;
+    font-weight: 600;
+  }
+
+  .meta a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 800;
+  }
+
+  .meta a:hover {
+    text-decoration: underline;
+  }
+</style>

@@ -1,0 +1,60 @@
+---
+const { items = [] } = Astro.props;
+---
+
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    {items.map((item, index) => (
+      <li>
+        {index < items.length - 1 ? (
+          <a href={item.href}>{item.label}</a>
+        ) : (
+          <span aria-current="page">{item.label}</span>
+        )}
+      </li>
+    ))}
+  </ol>
+</nav>
+
+<style>
+  .breadcrumbs {
+    margin-bottom: 18px;
+  }
+
+  .breadcrumbs ol {
+    list-style: none;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    color: #64748b;
+    font-size: 0.92rem;
+  }
+
+  .breadcrumbs li {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .breadcrumbs li:not(:last-child)::after {
+    content: "/";
+    color: #94a3b8;
+  }
+
+  .breadcrumbs a {
+    color: #2563eb;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .breadcrumbs a:hover {
+    text-decoration: underline;
+  }
+
+  .breadcrumbs span {
+    color: #475569;
+    font-weight: 600;
+  }
+</style>

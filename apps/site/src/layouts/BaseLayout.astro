@@ -1,11 +1,16 @@
 ---
 import SiteHeader from "../components/SiteHeader.astro";
 import SiteFooter from "../components/SiteFooter.astro";
+import { buildMetadata } from "../lib/metadata.js";
 
 const {
   title = "Smart Product Picks",
-  description = "Discover the best products before you buy."
+  description = "Discover the best products before you buy.",
+  path = "/",
+  type = "website"
 } = Astro.props;
+
+const meta = buildMetadata({ title, description, path, type });
 ---
 
 <!doctype html>
@@ -13,9 +18,20 @@ const {
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title}</title>
-    <meta name="description" content={description} />
+    <title>{meta.title}</title>
+    <meta name="description" content={meta.description} />
     <meta name="theme-color" content="#2563eb" />
+    <link rel="canonical" href={meta.canonical} />
+
+    <meta property="og:title" content={meta.openGraph.title} />
+    <meta property="og:description" content={meta.openGraph.description} />
+    <meta property="og:url" content={meta.openGraph.url} />
+    <meta property="og:type" content={meta.openGraph.type} />
+
+    <meta name="twitter:card" content={meta.twitter.card} />
+    <meta name="twitter:title" content={meta.twitter.title} />
+    <meta name="twitter:description" content={meta.twitter.description} />
+
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%232563eb'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-size='28' font-family='Arial' font-weight='700' fill='white'%3ESP%3C/text%3E%3C/svg%3E" />
   </head>
 
@@ -30,7 +46,6 @@ const {
   :root {
     --bg: #f8fafc;
     --surface: #ffffff;
-    --surface-muted: #eff6ff;
     --text: #0f172a;
     --muted: #475569;
     --muted-2: #64748b;
@@ -40,8 +55,6 @@ const {
     --container: 1120px;
     --shadow-soft: 0 12px 30px rgba(15, 23, 42, 0.05);
     --radius-lg: 22px;
-    --radius-md: 18px;
-    --radius-sm: 12px;
   }
 
   * {
