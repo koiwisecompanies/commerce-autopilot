@@ -1,0 +1,68 @@
+[
+  {
+    "topic": "best coffee grinder for beginners",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for beginners",
+    "audience": "beginners",
+    "scores": {
+      "demandScore": 63,
+      "intentScore": 52,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 10,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 100,
+      "saturationPenalty": 4,
+      "finalScore": 51.199999999999996
+    },
+    "decision": {
+      "action": "reject-duplicate-risk",
+      "reason": "Too close to an existing guide."
+    }
+  },
+  {
+    "topic": "best toaster oven for apartments",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for apartments",
+    "audience": "apartment-dwellers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 100,
+      "saturationPenalty": 4,
+      "finalScore": 50.26
+    },
+    "decision": {
+      "action": "reject-duplicate-risk",
+      "reason": "Too close to an existing guide."
+    }
+  },
+  {
+    "topic": "best portable blender for travel",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for travel",
+    "audience": "travel-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 14,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 100,
+      "saturationPenalty": 4,
+      "finalScore": 50.16
+    },
+    "decision": {
+      "action": "reject-duplicate-risk",
+      "reason": "Too close to an existing guide."
+    }
+  }
+]

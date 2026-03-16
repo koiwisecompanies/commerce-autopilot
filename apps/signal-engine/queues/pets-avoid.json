@@ -1,0 +1,24 @@
+[
+  {
+    "topic": "best cat water fountain",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 100,
+      "saturationPenalty": 2,
+      "finalScore": 43.36
+    },
+    "decision": {
+      "action": "reject-duplicate-risk",
+      "reason": "Too close to an existing guide."
+    }
+  }
+]

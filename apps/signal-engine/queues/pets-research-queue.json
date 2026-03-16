@@ -1,0 +1,200 @@
+[
+  {
+    "topic": "best automatic pet feeder",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 2,
+      "finalScore": 55.36
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best dog bed",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 2,
+      "finalScore": 55.36
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best pet crate",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 2,
+      "finalScore": 55.36
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget dog harness",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 2,
+      "finalScore": 55.36
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget automatic pet feeder",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 2,
+      "finalScore": 55.36
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget dog bed",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 2,
+      "finalScore": 55.36
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget pet crate",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 2,
+      "finalScore": 55.36
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best dog harness",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 2,
+      "finalScore": 53.2
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget cat water fountain",
+    "packName": "pets",
+    "category": "pets",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 2,
+      "finalScore": 53.2
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "signal-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "analyze": "node analyze-pack.js",
+    "recommend": "node recommend-next-pack.js",
+    "snapshot": "node build-snapshot.js",
+    "queues": "node list-queues.js",
+    "portfolio": "node portfolio-status.js",
+    "report": "node report-latest.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.2"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "type": "pack-recommendation",
+  "generatedAt": "2026-03-16T17:42:31.373Z",
+  "inventory": {
+    "totalGuides": 134,
+    "categoryCounts": {
+      "kitchen": 6,
+      "automotive": 2,
+      "pets": 3,
+      "electronics": 46,
+      "home office": 76,
+      "outdoors": 1
+    },
+    "dominantCategory": {
+      "name": "home office",
+      "count": 76,
+      "share": 0.5671641791044776
+    }
+  },
+  "recommendedPack": {
+    "packName": "automotive",
+    "seedsCount": 5,
+    "totals": {
+      "total": 55,
+      "publishNow": 0,
+      "holdForLater": 45,
+      "avoid": 0
+    },
+    "metrics": {
+      "avgTopicScore": 60.51,
+      "avgDuplicatePenalty": 2.29,
+      "avgSaturationPenalty": 1,
+      "publishNowRatio": 0,
+      "estimatedBalanceGain": 0,
+      "finalPackScore": 27.02
+    }
+  },
+  "rankedPacks": [
+    {
+      "packName": "automotive",
+      "seedsCount": 5,
+      "totals": {
+        "total": 55,
+        "publishNow": 0,
+        "holdForLater": 45,
+        "avoid": 0
+      },
+      "metrics": {
+        "avgTopicScore": 60.51,
+        "avgDuplicatePenalty": 2.29,
+        "avgSaturationPenalty": 1,
+        "publishNowRatio": 0,
+        "estimatedBalanceGain": 0,
+        "finalPackScore": 27.02
+      }
+    },
+    {
+      "packName": "pets",
+      "seedsCount": 5,
+      "totals": {
+        "total": 55,
+        "publishNow": 0,
+        "holdForLater": 45,
+        "avoid": 1
+      },
+      "metrics": {
+        "avgTopicScore": 59.9,
+        "avgDuplicatePenalty": 6.73,
+        "avgSaturationPenalty": 2,
+        "publishNowRatio": 0,
+        "estimatedBalanceGain": 0,
+        "finalPackScore": 26.42
+      }
+    },
+    {
+      "packName": "kitchen",
+      "seedsCount": 5,
+      "totals": {
+        "total": 65,
+        "publishNow": 0,
+        "holdForLater": 51,
+        "avoid": 3
+      },
+      "metrics": {
+        "avgTopicScore": 58.81,
+        "avgDuplicatePenalty": 11.26,
+        "avgSaturationPenalty": 4,
+        "publishNowRatio": 0,
+        "estimatedBalanceGain": 0,
+        "finalPackScore": 25.5
+      }
+    },
+    {
+      "packName": "home-office",
+      "seedsCount": 5,
+      "totals": {
+        "total": 70,
+        "publishNow": 0,
+        "holdForLater": 13,
+        "avoid": 54
+      },
+      "metrics": {
+        "avgTopicScore": 50.5,
+        "avgDuplicatePenalty": 84.11,
+        "avgSaturationPenalty": 0,
+        "publishNowRatio": 0,
+        "estimatedBalanceGain": 0,
+        "finalPackScore": 18.52
+      }
+    },
+    {
+      "packName": "electronics",
+      "seedsCount": 5,
+      "totals": {
+        "total": 65,
+        "publishNow": 0,
+        "holdForLater": 0,
+        "avoid": 65
+      },
+      "metrics": {
+        "avgTopicScore": 21.7,
+        "avgDuplicatePenalty": 85.88,
+        "avgSaturationPenalty": 34,
+        "publishNowRatio": 0,
+        "estimatedBalanceGain": 0,
+        "finalPackScore": 2.07
+      }
+    }
+  ]
+}

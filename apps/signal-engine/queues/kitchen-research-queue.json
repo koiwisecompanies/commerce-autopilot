@@ -1,0 +1,244 @@
+[
+  {
+    "topic": "best portable blender for everyday use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for everyday use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 55.839999999999996
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget air fryer",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 55.199999999999996
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget espresso machine",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 55.199999999999996
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget coffee grinder",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 55.199999999999996
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget toaster oven",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 55.199999999999996
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best air fryer",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 53.04
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best espresso machine",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 53.04
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best coffee grinder",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 53.04
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best toaster oven",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 53.04
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best budget portable blender",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 53.04
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  },
+  {
+    "topic": "best portable blender",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "core",
+    "audience": "general",
+    "scores": {
+      "demandScore": 45,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 6,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 36,
+      "saturationPenalty": 4,
+      "finalScore": 50.879999999999995
+    },
+    "decision": {
+      "action": "research-queue",
+      "reason": "Moderate opportunity, better saved for later."
+    }
+  }
+]

@@ -1,0 +1,1124 @@
+[
+  {
+    "topic": "best air fryer under 50",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 50",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 18,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 64.12
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder under 50",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 50",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 18,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 64.12
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven under 50",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 50",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 18,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 64.12
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer under 100",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 100",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 63.92000000000001
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best portable blender under 100",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 100",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 63.92000000000001
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder under 100",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 100",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 63.92000000000001
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven under 100",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 100",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 63.92000000000001
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer for beginners",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for beginners",
+    "audience": "beginners",
+    "scores": {
+      "demandScore": 63,
+      "intentScore": 52,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 10,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 63.199999999999996
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine for beginners",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for beginners",
+    "audience": "beginners",
+    "scores": {
+      "demandScore": 63,
+      "intentScore": 52,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 10,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 63.199999999999996
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer for apartments",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for apartments",
+    "audience": "apartment-dwellers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 62.26
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine for apartments",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for apartments",
+    "audience": "apartment-dwellers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 62.26
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer for travel",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for travel",
+    "audience": "travel-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 14,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 62.16
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine for travel",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for travel",
+    "audience": "travel-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 14,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 62.16
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine under 50",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 50",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 18,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 61.96
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best portable blender under 50",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 50",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 18,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 61.96
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine under 100",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "under 100",
+    "audience": "budget-buyers",
+    "scores": {
+      "demandScore": 59,
+      "intentScore": 60,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 9,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 61.76000000000001
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer for work",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for work",
+    "audience": "office-workers",
+    "scores": {
+      "demandScore": 61,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 13,
+      "audienceBonus": 7,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 61.74
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine for work",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for work",
+    "audience": "office-workers",
+    "scores": {
+      "demandScore": 61,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 13,
+      "audienceBonus": 7,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 61.74
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven for beginners",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for beginners",
+    "audience": "beginners",
+    "scores": {
+      "demandScore": 63,
+      "intentScore": 52,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 10,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 61.04
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine for small spaces",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for small spaces",
+    "audience": "space-limited-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 60.49999999999999
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder for small spaces",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for small spaces",
+    "audience": "space-limited-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 60.49999999999999
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven for small spaces",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for small spaces",
+    "audience": "space-limited-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 60.49999999999999
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best portable blender for apartments",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for apartments",
+    "audience": "apartment-dwellers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 60.1
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder for apartments",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for apartments",
+    "audience": "apartment-dwellers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 60.1
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder for travel",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for travel",
+    "audience": "travel-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 14,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 59.99999999999999
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven for travel",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for travel",
+    "audience": "travel-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 14,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 59.99999999999999
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer for easy cleaning",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for easy cleaning",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 49,
+      "categoryOpportunity": 92,
+      "modifierBonus": 12,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 59.739999999999995
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine for easy cleaning",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for easy cleaning",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 49,
+      "categoryOpportunity": 92,
+      "modifierBonus": 12,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 59.739999999999995
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best portable blender for easy cleaning",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for easy cleaning",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 49,
+      "categoryOpportunity": 92,
+      "modifierBonus": 12,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 59.739999999999995
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder for easy cleaning",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for easy cleaning",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 49,
+      "categoryOpportunity": 92,
+      "modifierBonus": 12,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 59.739999999999995
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven for easy cleaning",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for easy cleaning",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 49,
+      "categoryOpportunity": 92,
+      "modifierBonus": 12,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 59.739999999999995
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder for work",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for work",
+    "audience": "office-workers",
+    "scores": {
+      "demandScore": 61,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 13,
+      "audienceBonus": 7,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 59.580000000000005
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven for work",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for work",
+    "audience": "office-workers",
+    "scores": {
+      "demandScore": 61,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 13,
+      "audienceBonus": 7,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 59.580000000000005
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best portable blender for beginners",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for beginners",
+    "audience": "beginners",
+    "scores": {
+      "demandScore": 63,
+      "intentScore": 52,
+      "categoryOpportunity": 92,
+      "modifierBonus": 16,
+      "audienceBonus": 10,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 36,
+      "saturationPenalty": 4,
+      "finalScore": 58.879999999999995
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer for small spaces",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for small spaces",
+    "audience": "space-limited-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 58.339999999999996
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best portable blender for small spaces",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for small spaces",
+    "audience": "space-limited-buyers",
+    "scores": {
+      "demandScore": 62,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 15,
+      "audienceBonus": 8,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 18,
+      "saturationPenalty": 4,
+      "finalScore": 58.339999999999996
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer for meal prep",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for meal prep",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 11,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58.1
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine for meal prep",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for meal prep",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 11,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58.1
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best portable blender for meal prep",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for meal prep",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 11,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58.1
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder for meal prep",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for meal prep",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 11,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58.1
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven for meal prep",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for meal prep",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 11,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58.1
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer for everyday use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for everyday use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine for everyday use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for everyday use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder for everyday use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for everyday use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven for everyday use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for everyday use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best air fryer for countertop use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for countertop use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best espresso machine for countertop use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for countertop use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best portable blender for countertop use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for countertop use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best coffee grinder for countertop use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for countertop use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best toaster oven for countertop use",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for countertop use",
+    "audience": "general",
+    "scores": {
+      "demandScore": 55,
+      "intentScore": 42,
+      "categoryOpportunity": 92,
+      "modifierBonus": 10,
+      "audienceBonus": 4,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 0,
+      "saturationPenalty": 4,
+      "finalScore": 58
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  },
+  {
+    "topic": "best portable blender for work",
+    "packName": "kitchen",
+    "category": "kitchen",
+    "modifier": "for work",
+    "audience": "office-workers",
+    "scores": {
+      "demandScore": 61,
+      "intentScore": 50,
+      "categoryOpportunity": 92,
+      "modifierBonus": 13,
+      "audienceBonus": 7,
+      "categoryBalanceBonus": 18,
+      "duplicateRisk": 36,
+      "saturationPenalty": 4,
+      "finalScore": 57.42
+    },
+    "decision": {
+      "action": "hold-for-later",
+      "reason": "Useful topic but not urgent."
+    }
+  }
+]

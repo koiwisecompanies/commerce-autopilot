@@ -1,0 +1,1675 @@
+{
+  "packName": "pets",
+  "analyzedAt": "2026-03-16T17:42:22.722Z",
+  "packScore": {
+    "packName": "pets",
+    "totals": {
+      "total": 55,
+      "publishNow": 0,
+      "holdForLater": 45,
+      "avoid": 1
+    },
+    "metrics": {
+      "avgTopicScore": 59.9,
+      "avgDuplicatePenalty": 6.73,
+      "avgSaturationPenalty": 2,
+      "publishNowRatio": 0,
+      "estimatedBalanceGain": 0,
+      "finalPackScore": 26.42
+    }
+  },
+  "topTopics": [
+    {
+      "topic": "best dog harness under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for beginners",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for beginners",
+      "audience": "beginners",
+      "scores": {
+        "demandScore": 63,
+        "intentScore": 52,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 10,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 63.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for beginners",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for beginners",
+      "audience": "beginners",
+      "scores": {
+        "demandScore": 63,
+        "intentScore": 52,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 10,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 63.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for beginners",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for beginners",
+      "audience": "beginners",
+      "scores": {
+        "demandScore": 63,
+        "intentScore": 52,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 10,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 63.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for apartments",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for apartments",
+      "audience": "apartment-dwellers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.42
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for apartments",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for apartments",
+      "audience": "apartment-dwellers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.42
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for apartments",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for apartments",
+      "audience": "apartment-dwellers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.42
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for travel",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for travel",
+      "audience": "travel-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 14,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.32
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for travel",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for travel",
+      "audience": "travel-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 14,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.32
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for travel",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for travel",
+      "audience": "travel-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 14,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.32
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 62.120000000000005
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 61.920000000000016
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for work",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for work",
+      "audience": "office-workers",
+      "scores": {
+        "demandScore": 61,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 13,
+        "audienceBonus": 7,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 61.900000000000006
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    }
+  ],
+  "scoredTopics": [
+    {
+      "topic": "best dog harness under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for beginners",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for beginners",
+      "audience": "beginners",
+      "scores": {
+        "demandScore": 63,
+        "intentScore": 52,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 10,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 63.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for beginners",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for beginners",
+      "audience": "beginners",
+      "scores": {
+        "demandScore": 63,
+        "intentScore": 52,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 10,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 63.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for beginners",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for beginners",
+      "audience": "beginners",
+      "scores": {
+        "demandScore": 63,
+        "intentScore": 52,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 10,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 63.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for apartments",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for apartments",
+      "audience": "apartment-dwellers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.42
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for apartments",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for apartments",
+      "audience": "apartment-dwellers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.42
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for apartments",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for apartments",
+      "audience": "apartment-dwellers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.42
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for travel",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for travel",
+      "audience": "travel-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 14,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.32
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for travel",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for travel",
+      "audience": "travel-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 14,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.32
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for travel",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for travel",
+      "audience": "travel-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 14,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 62.32
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 62.120000000000005
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 61.920000000000016
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for work",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for work",
+      "audience": "office-workers",
+      "scores": {
+        "demandScore": 61,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 13,
+        "audienceBonus": 7,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 61.900000000000006
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for work",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for work",
+      "audience": "office-workers",
+      "scores": {
+        "demandScore": 61,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 13,
+        "audienceBonus": 7,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 61.900000000000006
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for work",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for work",
+      "audience": "office-workers",
+      "scores": {
+        "demandScore": 61,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 13,
+        "audienceBonus": 7,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 61.900000000000006
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness for beginners",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for beginners",
+      "audience": "beginners",
+      "scores": {
+        "demandScore": 63,
+        "intentScore": 52,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 10,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 61.2
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain for beginners",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for beginners",
+      "audience": "beginners",
+      "scores": {
+        "demandScore": 63,
+        "intentScore": 52,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 10,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 61.2
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness for small spaces",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for small spaces",
+      "audience": "space-limited-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 60.66
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for small spaces",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for small spaces",
+      "audience": "space-limited-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 60.66
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for small spaces",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for small spaces",
+      "audience": "space-limited-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 60.66
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for small spaces",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for small spaces",
+      "audience": "space-limited-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 60.66
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness for apartments",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for apartments",
+      "audience": "apartment-dwellers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 60.260000000000005
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain for apartments",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for apartments",
+      "audience": "apartment-dwellers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 60.260000000000005
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness for travel",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for travel",
+      "audience": "travel-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 14,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 60.16
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain for travel",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for travel",
+      "audience": "travel-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 14,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 60.16
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness for easy cleaning",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for easy cleaning",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 49,
+        "categoryOpportunity": 92,
+        "modifierBonus": 12,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 59.9
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for easy cleaning",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for easy cleaning",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 49,
+        "categoryOpportunity": 92,
+        "modifierBonus": 12,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 59.9
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for easy cleaning",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for easy cleaning",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 49,
+        "categoryOpportunity": 92,
+        "modifierBonus": 12,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 59.9
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for easy cleaning",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for easy cleaning",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 49,
+        "categoryOpportunity": 92,
+        "modifierBonus": 12,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 59.9
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness for work",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for work",
+      "audience": "office-workers",
+      "scores": {
+        "demandScore": 61,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 13,
+        "audienceBonus": 7,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 59.74000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain for work",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for work",
+      "audience": "office-workers",
+      "scores": {
+        "demandScore": 61,
+        "intentScore": 50,
+        "categoryOpportunity": 92,
+        "modifierBonus": 13,
+        "audienceBonus": 7,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 59.74000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain for small spaces",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for small spaces",
+      "audience": "space-limited-buyers",
+      "scores": {
+        "demandScore": 62,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 15,
+        "audienceBonus": 8,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 58.5
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness for everyday use",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for everyday use",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 10,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 58.160000000000004
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder for everyday use",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for everyday use",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 10,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 58.160000000000004
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed for everyday use",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for everyday use",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 10,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 58.160000000000004
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate for everyday use",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for everyday use",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 10,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 58.160000000000004
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain for easy cleaning",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for easy cleaning",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 49,
+        "categoryOpportunity": 92,
+        "modifierBonus": 12,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 57.739999999999995
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best cat water fountain for everyday use",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "for everyday use",
+      "audience": "general",
+      "scores": {
+        "demandScore": 55,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 10,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 56
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 55.36
+      },
+      "decision": {
+        "action": "research-queue",
+        "reason": "Moderate opportunity, better saved for later."
+      }
+    },
+    {
+      "topic": "best dog bed",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 55.36
+      },
+      "decision": {
+        "action": "research-queue",
+        "reason": "Moderate opportunity, better saved for later."
+      }
+    },
+    {
+      "topic": "best pet crate",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 55.36
+      },
+      "decision": {
+        "action": "research-queue",
+        "reason": "Moderate opportunity, better saved for later."
+      }
+    },
+    {
+      "topic": "best budget dog harness",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 55.36
+      },
+      "decision": {
+        "action": "research-queue",
+        "reason": "Moderate opportunity, better saved for later."
+      }
+    },
+    {
+      "topic": "best budget automatic pet feeder",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 55.36
+      },
+      "decision": {
+        "action": "research-queue",
+        "reason": "Moderate opportunity, better saved for later."
+      }
+    },
+    {
+      "topic": "best budget dog bed",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 55.36
+      },
+      "decision": {
+        "action": "research-queue",
+        "reason": "Moderate opportunity, better saved for later."
+      }
+    },
+    {
+      "topic": "best budget pet crate",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 55.36
+      },
+      "decision": {
+        "action": "research-queue",
+        "reason": "Moderate opportunity, better saved for later."
+      }
+    },
+    {
+      "topic": "best dog harness",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 53.2
+      },
+      "decision": {
+        "action": "research-queue",
+        "reason": "Moderate opportunity, better saved for later."
+      }
+    },
+    {
+      "topic": "best budget cat water fountain",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 18,
+        "saturationPenalty": 2,
+        "finalScore": 53.2
+      },
+      "decision": {
+        "action": "research-queue",
+        "reason": "Moderate opportunity, better saved for later."
+      }
+    },
+    {
+      "topic": "best cat water fountain",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "core",
+      "audience": "general",
+      "scores": {
+        "demandScore": 45,
+        "intentScore": 42,
+        "categoryOpportunity": 92,
+        "modifierBonus": 6,
+        "audienceBonus": 4,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 100,
+        "saturationPenalty": 2,
+        "finalScore": 43.36
+      },
+      "decision": {
+        "action": "reject-duplicate-risk",
+        "reason": "Too close to an existing guide."
+      }
+    }
+  ]
+}

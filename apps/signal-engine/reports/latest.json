@@ -1,0 +1,1389 @@
+{
+  "type": "market-snapshot",
+  "generatedAt": "2026-03-16T17:42:43.791Z",
+  "inventory": {
+    "totalGuides": 134,
+    "categoryCounts": {
+      "kitchen": 6,
+      "automotive": 2,
+      "pets": 3,
+      "electronics": 46,
+      "home office": 76,
+      "outdoors": 1
+    },
+    "dominantCategory": {
+      "name": "home office",
+      "count": 76,
+      "share": 0.5671641791044776
+    },
+    "modifierCounts": {
+      "for small hands": 6,
+      "for work": 7,
+      "for travel": 11,
+      "for small spaces": 10,
+      "for back support": 4,
+      "for remote work": 4,
+      "for apartments": 1,
+      "for beginners": 11,
+      "for gaming": 6,
+      "for everyday use": 10,
+      "for battery life": 6,
+      "under 50": 10,
+      "for productivity": 3
+    },
+    "audienceCounts": {
+      "travel-buyers": 13,
+      "gamers": 16,
+      "accessibility-buyers": 6,
+      "office-workers": 14,
+      "space-limited-buyers": 10,
+      "remote-workers": 4,
+      "budget-buyers": 11,
+      "apartment-dwellers": 1,
+      "beginners": 11
+    }
+  },
+  "recommendation": {
+    "generatedAt": "2026-03-16T17:42:43.689Z",
+    "inventory": {
+      "totalGuides": 134,
+      "categoryCounts": {
+        "kitchen": 6,
+        "automotive": 2,
+        "pets": 3,
+        "electronics": 46,
+        "home office": 76,
+        "outdoors": 1
+      },
+      "dominantCategory": {
+        "name": "home office",
+        "count": 76,
+        "share": 0.5671641791044776
+      }
+    },
+    "recommendedPack": {
+      "packName": "automotive",
+      "seedsCount": 5,
+      "totals": {
+        "total": 55,
+        "publishNow": 0,
+        "holdForLater": 45,
+        "avoid": 0
+      },
+      "metrics": {
+        "avgTopicScore": 60.51,
+        "avgDuplicatePenalty": 2.29,
+        "avgSaturationPenalty": 1,
+        "publishNowRatio": 0,
+        "estimatedBalanceGain": 0,
+        "finalPackScore": 27.02
+      }
+    },
+    "rankedPacks": [
+      {
+        "packName": "automotive",
+        "seedsCount": 5,
+        "totals": {
+          "total": 55,
+          "publishNow": 0,
+          "holdForLater": 45,
+          "avoid": 0
+        },
+        "metrics": {
+          "avgTopicScore": 60.51,
+          "avgDuplicatePenalty": 2.29,
+          "avgSaturationPenalty": 1,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 27.02
+        }
+      },
+      {
+        "packName": "pets",
+        "seedsCount": 5,
+        "totals": {
+          "total": 55,
+          "publishNow": 0,
+          "holdForLater": 45,
+          "avoid": 1
+        },
+        "metrics": {
+          "avgTopicScore": 59.9,
+          "avgDuplicatePenalty": 6.73,
+          "avgSaturationPenalty": 2,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 26.42
+        }
+      },
+      {
+        "packName": "kitchen",
+        "seedsCount": 5,
+        "totals": {
+          "total": 65,
+          "publishNow": 0,
+          "holdForLater": 51,
+          "avoid": 3
+        },
+        "metrics": {
+          "avgTopicScore": 58.81,
+          "avgDuplicatePenalty": 11.26,
+          "avgSaturationPenalty": 4,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 25.5
+        }
+      },
+      {
+        "packName": "home-office",
+        "seedsCount": 5,
+        "totals": {
+          "total": 70,
+          "publishNow": 0,
+          "holdForLater": 13,
+          "avoid": 54
+        },
+        "metrics": {
+          "avgTopicScore": 50.5,
+          "avgDuplicatePenalty": 84.11,
+          "avgSaturationPenalty": 0,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 18.52
+        }
+      },
+      {
+        "packName": "electronics",
+        "seedsCount": 5,
+        "totals": {
+          "total": 65,
+          "publishNow": 0,
+          "holdForLater": 0,
+          "avoid": 65
+        },
+        "metrics": {
+          "avgTopicScore": 21.7,
+          "avgDuplicatePenalty": 85.88,
+          "avgSaturationPenalty": 34,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 2.07
+        }
+      }
+    ]
+  },
+  "topSitewideTopics": [
+    {
+      "topic": "best car phone mount under 50",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dash cam under 50",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best car vacuum under 50",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best seat organizer under 50",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best jump starter under 50",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.36
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate under 50",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.28
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best car phone mount under 100",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.16000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dash cam under 100",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.16000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best car vacuum under 100",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.16000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best seat organizer under 100",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.16000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best jump starter under 100",
+      "packName": "automotive",
+      "category": "automotive",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 1,
+        "finalScore": 64.16000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best air fryer under 50",
+      "packName": "kitchen",
+      "category": "kitchen",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 4,
+        "finalScore": 64.12
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best coffee grinder under 50",
+      "packName": "kitchen",
+      "category": "kitchen",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 4,
+        "finalScore": 64.12
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best toaster oven under 50",
+      "packName": "kitchen",
+      "category": "kitchen",
+      "modifier": "under 50",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 18,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 4,
+        "finalScore": 64.12
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog harness under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best automatic pet feeder under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best dog bed under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best pet crate under 100",
+      "packName": "pets",
+      "category": "pets",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 2,
+        "finalScore": 64.08000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best air fryer under 100",
+      "packName": "kitchen",
+      "category": "kitchen",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 4,
+        "finalScore": 63.92000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best portable blender under 100",
+      "packName": "kitchen",
+      "category": "kitchen",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 4,
+        "finalScore": 63.92000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best coffee grinder under 100",
+      "packName": "kitchen",
+      "category": "kitchen",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 4,
+        "finalScore": 63.92000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    },
+    {
+      "topic": "best toaster oven under 100",
+      "packName": "kitchen",
+      "category": "kitchen",
+      "modifier": "under 100",
+      "audience": "budget-buyers",
+      "scores": {
+        "demandScore": 59,
+        "intentScore": 60,
+        "categoryOpportunity": 92,
+        "modifierBonus": 16,
+        "audienceBonus": 9,
+        "categoryBalanceBonus": 18,
+        "duplicateRisk": 0,
+        "saturationPenalty": 4,
+        "finalScore": 63.92000000000001
+      },
+      "decision": {
+        "action": "hold-for-later",
+        "reason": "Useful topic but not urgent."
+      }
+    }
+  ],
+  "packSummaries": [
+    {
+      "packName": "automotive",
+      "packScore": {
+        "packName": "automotive",
+        "totals": {
+          "total": 55,
+          "publishNow": 0,
+          "holdForLater": 45,
+          "avoid": 0
+        },
+        "metrics": {
+          "avgTopicScore": 60.51,
+          "avgDuplicatePenalty": 2.29,
+          "avgSaturationPenalty": 1,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 27.02
+        }
+      },
+      "topTopics": [
+        {
+          "topic": "best car phone mount under 50",
+          "packName": "automotive",
+          "category": "automotive",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 1,
+            "finalScore": 64.36
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best dash cam under 50",
+          "packName": "automotive",
+          "category": "automotive",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 1,
+            "finalScore": 64.36
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best car vacuum under 50",
+          "packName": "automotive",
+          "category": "automotive",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 1,
+            "finalScore": 64.36
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best seat organizer under 50",
+          "packName": "automotive",
+          "category": "automotive",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 1,
+            "finalScore": 64.36
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best jump starter under 50",
+          "packName": "automotive",
+          "category": "automotive",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 1,
+            "finalScore": 64.36
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        }
+      ]
+    },
+    {
+      "packName": "electronics",
+      "packScore": {
+        "packName": "electronics",
+        "totals": {
+          "total": 65,
+          "publishNow": 0,
+          "holdForLater": 0,
+          "avoid": 65
+        },
+        "metrics": {
+          "avgTopicScore": 21.7,
+          "avgDuplicatePenalty": 85.88,
+          "avgSaturationPenalty": 34,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 2.07
+        }
+      },
+      "topTopics": [
+        {
+          "topic": "best gaming headset under 100",
+          "packName": "electronics",
+          "category": "electronics",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 65,
+            "intentScore": 60,
+            "categoryOpportunity": 45,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 0,
+            "duplicateRisk": 36,
+            "saturationPenalty": 34,
+            "finalScore": 32.18
+          },
+          "decision": {
+            "action": "reject-low-value",
+            "reason": "Low strategic value compared to stronger candidates."
+          }
+        },
+        {
+          "topic": "best wireless mouse under 100",
+          "packName": "electronics",
+          "category": "electronics",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 45,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 0,
+            "duplicateRisk": 36,
+            "saturationPenalty": 34,
+            "finalScore": 30.740000000000002
+          },
+          "decision": {
+            "action": "reject-low-value",
+            "reason": "Low strategic value compared to stronger candidates."
+          }
+        },
+        {
+          "topic": "best mechanical keyboard under 100",
+          "packName": "electronics",
+          "category": "electronics",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 45,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 0,
+            "duplicateRisk": 36,
+            "saturationPenalty": 34,
+            "finalScore": 30.740000000000002
+          },
+          "decision": {
+            "action": "reject-low-value",
+            "reason": "Low strategic value compared to stronger candidates."
+          }
+        },
+        {
+          "topic": "best portable monitor under 100",
+          "packName": "electronics",
+          "category": "electronics",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 45,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 0,
+            "duplicateRisk": 36,
+            "saturationPenalty": 34,
+            "finalScore": 30.740000000000002
+          },
+          "decision": {
+            "action": "reject-low-value",
+            "reason": "Low strategic value compared to stronger candidates."
+          }
+        },
+        {
+          "topic": "best wireless earbuds under 100",
+          "packName": "electronics",
+          "category": "electronics",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 45,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 0,
+            "duplicateRisk": 36,
+            "saturationPenalty": 34,
+            "finalScore": 30.740000000000002
+          },
+          "decision": {
+            "action": "reject-low-value",
+            "reason": "Low strategic value compared to stronger candidates."
+          }
+        }
+      ]
+    },
+    {
+      "packName": "home-office",
+      "packScore": {
+        "packName": "home-office",
+        "totals": {
+          "total": 70,
+          "publishNow": 0,
+          "holdForLater": 13,
+          "avoid": 54
+        },
+        "metrics": {
+          "avgTopicScore": 50.5,
+          "avgDuplicatePenalty": 84.11,
+          "avgSaturationPenalty": 0,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 18.52
+        }
+      },
+      "topTopics": [
+        {
+          "topic": "best office chair under 100",
+          "packName": "home-office",
+          "category": "home-office",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 36,
+            "saturationPenalty": 0,
+            "finalScore": 59.92000000000001
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best standing desk under 100",
+          "packName": "home-office",
+          "category": "home-office",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 36,
+            "saturationPenalty": 0,
+            "finalScore": 59.92000000000001
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best desk lamp under 100",
+          "packName": "home-office",
+          "category": "home-office",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 36,
+            "saturationPenalty": 0,
+            "finalScore": 59.92000000000001
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best monitor arm under 100",
+          "packName": "home-office",
+          "category": "home-office",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 36,
+            "saturationPenalty": 0,
+            "finalScore": 59.92000000000001
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best laptop stand under 100",
+          "packName": "home-office",
+          "category": "home-office",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 36,
+            "saturationPenalty": 0,
+            "finalScore": 59.92000000000001
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        }
+      ]
+    },
+    {
+      "packName": "kitchen",
+      "packScore": {
+        "packName": "kitchen",
+        "totals": {
+          "total": 65,
+          "publishNow": 0,
+          "holdForLater": 51,
+          "avoid": 3
+        },
+        "metrics": {
+          "avgTopicScore": 58.81,
+          "avgDuplicatePenalty": 11.26,
+          "avgSaturationPenalty": 4,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 25.5
+        }
+      },
+      "topTopics": [
+        {
+          "topic": "best air fryer under 50",
+          "packName": "kitchen",
+          "category": "kitchen",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 4,
+            "finalScore": 64.12
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best coffee grinder under 50",
+          "packName": "kitchen",
+          "category": "kitchen",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 4,
+            "finalScore": 64.12
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best toaster oven under 50",
+          "packName": "kitchen",
+          "category": "kitchen",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 4,
+            "finalScore": 64.12
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best air fryer under 100",
+          "packName": "kitchen",
+          "category": "kitchen",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 4,
+            "finalScore": 63.92000000000001
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best portable blender under 100",
+          "packName": "kitchen",
+          "category": "kitchen",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 4,
+            "finalScore": 63.92000000000001
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        }
+      ]
+    },
+    {
+      "packName": "pets",
+      "packScore": {
+        "packName": "pets",
+        "totals": {
+          "total": 55,
+          "publishNow": 0,
+          "holdForLater": 45,
+          "avoid": 1
+        },
+        "metrics": {
+          "avgTopicScore": 59.9,
+          "avgDuplicatePenalty": 6.73,
+          "avgSaturationPenalty": 2,
+          "publishNowRatio": 0,
+          "estimatedBalanceGain": 0,
+          "finalPackScore": 26.42
+        }
+      },
+      "topTopics": [
+        {
+          "topic": "best dog harness under 50",
+          "packName": "pets",
+          "category": "pets",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 2,
+            "finalScore": 64.28
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best automatic pet feeder under 50",
+          "packName": "pets",
+          "category": "pets",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 2,
+            "finalScore": 64.28
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best dog bed under 50",
+          "packName": "pets",
+          "category": "pets",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 2,
+            "finalScore": 64.28
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best pet crate under 50",
+          "packName": "pets",
+          "category": "pets",
+          "modifier": "under 50",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 18,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 2,
+            "finalScore": 64.28
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        },
+        {
+          "topic": "best dog harness under 100",
+          "packName": "pets",
+          "category": "pets",
+          "modifier": "under 100",
+          "audience": "budget-buyers",
+          "scores": {
+            "demandScore": 59,
+            "intentScore": 60,
+            "categoryOpportunity": 92,
+            "modifierBonus": 16,
+            "audienceBonus": 9,
+            "categoryBalanceBonus": 18,
+            "duplicateRisk": 0,
+            "saturationPenalty": 2,
+            "finalScore": 64.08000000000001
+          },
+          "decision": {
+            "action": "hold-for-later",
+            "reason": "Useful topic but not urgent."
+          }
+        }
+      ]
+    }
+  ]
+}

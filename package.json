@@ -16,6 +16,12 @@
     "autopilot:publish": "pnpm --filter autopilot publish",
     "autopilot:launch": "pnpm --filter autopilot launch",
     "autopilot:resume": "pnpm --filter autopilot resume",
-    "autopilot:status": "pnpm --filter autopilot status"
+    "autopilot:status": "pnpm --filter autopilot status",
+    "signal:analyze": "pnpm --filter signal-engine analyze",
+    "signal:recommend": "pnpm --filter signal-engine recommend",
+    "signal:snapshot": "pnpm --filter signal-engine snapshot",
+    "signal:queues": "pnpm --filter signal-engine queues",
+    "signal:portfolio": "pnpm --filter signal-engine portfolio",
+    "signal:report": "pnpm --filter signal-engine report"
   }
 }
