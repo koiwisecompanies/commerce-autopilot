@@ -1,0 +1,292 @@
+{
+  "startedAt": "2026-03-16T15:03:25.617Z",
+  "source": "bulk-file:/home/tre/projects/commerce-autopilot/apps/topic-engine/generated-packs/kitchen.txt",
+  "dryRun": true,
+  "totals": {
+    "received": 55,
+    "processed": 55,
+    "created": 55,
+    "skippedDuplicates": 0,
+    "failedValidation": 0
+  },
+  "created": [
+    {
+      "topic": "Best Air Fryer For Beginners",
+      "slug": "best-air-fryer-for-beginners",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine For Beginners",
+      "slug": "best-espresso-machine-for-beginners",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Portable Blender For Beginners",
+      "slug": "best-portable-blender-for-beginners",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven For Beginners",
+      "slug": "best-toaster-oven-for-beginners",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Air Fryer For Small Spaces",
+      "slug": "best-air-fryer-for-small-spaces",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Air Fryer For Travel",
+      "slug": "best-air-fryer-for-travel",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder For Small Kitchen",
+      "slug": "best-coffee-grinder-for-small-kitchen",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder For Small Spaces",
+      "slug": "best-coffee-grinder-for-small-spaces",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder For Travel",
+      "slug": "best-coffee-grinder-for-travel",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine For Small Kitchen",
+      "slug": "best-espresso-machine-for-small-kitchen",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine For Small Spaces",
+      "slug": "best-espresso-machine-for-small-spaces",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine For Travel",
+      "slug": "best-espresso-machine-for-travel",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Portable Blender For Small Kitchen",
+      "slug": "best-portable-blender-for-small-kitchen",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Portable Blender For Small Spaces",
+      "slug": "best-portable-blender-for-small-spaces",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven For Small Kitchen",
+      "slug": "best-toaster-oven-for-small-kitchen",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven For Small Spaces",
+      "slug": "best-toaster-oven-for-small-spaces",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven For Travel",
+      "slug": "best-toaster-oven-for-travel",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Air Fryer For Apartments",
+      "slug": "best-air-fryer-for-apartments",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Air Fryer For Countertop Use",
+      "slug": "best-air-fryer-for-countertop-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Air Fryer For Easy Cleaning",
+      "slug": "best-air-fryer-for-easy-cleaning",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Air Fryer For Everyday Use",
+      "slug": "best-air-fryer-for-everyday-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Air Fryer For Meal Prep",
+      "slug": "best-air-fryer-for-meal-prep",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder For Apartments",
+      "slug": "best-coffee-grinder-for-apartments",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder For Countertop Use",
+      "slug": "best-coffee-grinder-for-countertop-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder For Easy Cleaning",
+      "slug": "best-coffee-grinder-for-easy-cleaning",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder For Everyday Use",
+      "slug": "best-coffee-grinder-for-everyday-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder For Meal Prep",
+      "slug": "best-coffee-grinder-for-meal-prep",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine For Apartments",
+      "slug": "best-espresso-machine-for-apartments",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine For Countertop Use",
+      "slug": "best-espresso-machine-for-countertop-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine For Easy Cleaning",
+      "slug": "best-espresso-machine-for-easy-cleaning",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine For Everyday Use",
+      "slug": "best-espresso-machine-for-everyday-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine For Meal Prep",
+      "slug": "best-espresso-machine-for-meal-prep",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Portable Blender For Apartments",
+      "slug": "best-portable-blender-for-apartments",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Portable Blender For Countertop Use",
+      "slug": "best-portable-blender-for-countertop-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Portable Blender For Easy Cleaning",
+      "slug": "best-portable-blender-for-easy-cleaning",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Portable Blender For Everyday Use",
+      "slug": "best-portable-blender-for-everyday-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Portable Blender For Meal Prep",
+      "slug": "best-portable-blender-for-meal-prep",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven For Countertop Use",
+      "slug": "best-toaster-oven-for-countertop-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven For Easy Cleaning",
+      "slug": "best-toaster-oven-for-easy-cleaning",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven For Everyday Use",
+      "slug": "best-toaster-oven-for-everyday-use",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven For Meal Prep",
+      "slug": "best-toaster-oven-for-meal-prep",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Air Fryer Under 50",
+      "slug": "best-air-fryer-under-50",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Budget Air Fryer",
+      "slug": "best-budget-air-fryer",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Budget Coffee Grinder",
+      "slug": "best-budget-coffee-grinder",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Budget Espresso Machine",
+      "slug": "best-budget-espresso-machine",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Budget Portable Blender",
+      "slug": "best-budget-portable-blender",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Budget Toaster Oven",
+      "slug": "best-budget-toaster-oven",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder Under 50",
+      "slug": "best-coffee-grinder-under-50",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine Under 50",
+      "slug": "best-espresso-machine-under-50",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Portable Blender Under 50",
+      "slug": "best-portable-blender-under-50",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven Under 50",
+      "slug": "best-toaster-oven-under-50",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Coffee Grinder",
+      "slug": "best-coffee-grinder",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Espresso Machine",
+      "slug": "best-espresso-machine",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Air Fryer",
+      "slug": "best-air-fryer",
+      "category": "Kitchen"
+    },
+    {
+      "topic": "Best Toaster Oven",
+      "slug": "best-toaster-oven",
+      "category": "Kitchen"
+    }
+  ],
+  "skippedDuplicates": [],
+  "failedValidation": [],
+  "finishedAt": "2026-03-16T15:03:25.623Z"
+}

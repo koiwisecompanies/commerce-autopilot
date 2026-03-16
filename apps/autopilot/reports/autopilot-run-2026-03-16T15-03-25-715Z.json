@@ -1,0 +1,124 @@
+{
+  "startedAt": "2026-03-16T15:03:25.262Z",
+  "packName": "kitchen",
+  "mode": "preview",
+  "ok": true,
+  "thresholds": {
+    "minAcceptedTopics": 3,
+    "maxAcceptedTopics": 200,
+    "maxDuplicateRatio": 0.8,
+    "minCreatedGuidesForPublish": 1
+  },
+  "launchPolicy": {
+    "minTotalGuides": 12,
+    "minCategoriesRepresented": 3,
+    "maxDominantCategoryShare": 0.7
+  },
+  "stages": {
+    "topicBuild": {
+      "name": "topicBuild",
+      "startedAt": "2026-03-16T15:03:25.403Z",
+      "finishedAt": "2026-03-16T15:03:25.524Z",
+      "ok": true,
+      "skipped": false,
+      "reason": null
+    },
+    "guideGeneration": {
+      "name": "guideGeneration",
+      "startedAt": "2026-03-16T15:03:25.525Z",
+      "finishedAt": "2026-03-16T15:03:25.637Z",
+      "ok": true,
+      "skipped": false,
+      "reason": null
+    },
+    "publish": {
+      "name": "publish",
+      "startedAt": null,
+      "finishedAt": "2026-03-16T15:03:25.638Z",
+      "ok": true,
+      "skipped": true,
+      "reason": "Preview mode does not publish."
+    }
+  },
+  "git": {
+    "before": {
+      "branch": "master",
+      "commit": "ea7e1ac",
+      "workingTree": {
+        "ok": true,
+        "changed": true,
+        "raw": " D build-pack.js\n M node_modules/.pnpm-workspace-state-v1.json\n M node_modules/.pnpm/lock.yaml\n M package.json\n M pnpm-lock.yaml\n D preview-pack.js\n D report-latest.js\n?? apps/autopilot/\n"
+      }
+    },
+    "after": {
+      "branch": "master",
+      "commit": "ea7e1ac",
+      "workingTree": {
+        "ok": true,
+        "changed": true,
+        "raw": " M apps/generator/reports/latest-run.json\n M apps/topic-engine/reports/latest-run.json\n D build-pack.js\n M node_modules/.pnpm-workspace-state-v1.json\n M node_modules/.pnpm/lock.yaml\n M package.json\n M pnpm-lock.yaml\n D preview-pack.js\n D report-latest.js\n?? apps/autopilot/\n?? apps/generator/reports/run-2026-03-16T15-03-25-624Z.json\n?? apps/topic-engine/reports/topic-run-2026-03-16T15-03-25-512Z.json\n"
+      }
+    }
+  },
+  "inventory": {
+    "before": {
+      "totalGuides": 24,
+      "categoriesRepresented": 6,
+      "categoryCounts": {
+        "kitchen": 6,
+        "automotive": 2,
+        "pets": 3,
+        "electronics": 3,
+        "home office": 9,
+        "outdoors": 1
+      },
+      "dominantCategory": {
+        "name": "home office",
+        "count": 9,
+        "share": 0.375
+      }
+    },
+    "after": {
+      "totalGuides": 79,
+      "categoriesRepresented": 6,
+      "categoryCounts": {
+        "kitchen": 61,
+        "automotive": 2,
+        "pets": 3,
+        "electronics": 3,
+        "home office": 9,
+        "outdoors": 1
+      },
+      "dominantCategory": {
+        "name": "kitchen",
+        "count": 61,
+        "share": 0.7721518987341772
+      }
+    },
+    "launchReadiness": {
+      "launchSafe": false,
+      "warnings": [
+        "Dominant category share too high: kitchen at 77.2%"
+      ]
+    }
+  },
+  "outputs": {
+    "generatedPackPath": "/home/tre/projects/commerce-autopilot/apps/topic-engine/generated-packs/kitchen.txt",
+    "topicTotals": {
+      "generated": 60,
+      "accepted": 55,
+      "duplicates": 5,
+      "lowScore": 0
+    },
+    "generatorTotals": {
+      "received": 55,
+      "processed": 55,
+      "created": 55,
+      "skippedDuplicates": 0,
+      "failedValidation": 0
+    },
+    "publishSummary": null
+  },
+  "error": null,
+  "finishedAt": "2026-03-16T15:03:25.715Z"
+}

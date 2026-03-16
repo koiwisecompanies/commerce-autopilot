@@ -1,0 +1,17 @@
+{
+  "name": "autopilot",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "preview": "node autopilot-run.js preview",
+    "generate": "node autopilot-run.js generate",
+    "publish": "node autopilot-run.js publish",
+    "launch": "node autopilot-run.js launch",
+    "resume": "node autopilot-resume.js",
+    "status": "node autopilot-status.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.2"
+  }
+}

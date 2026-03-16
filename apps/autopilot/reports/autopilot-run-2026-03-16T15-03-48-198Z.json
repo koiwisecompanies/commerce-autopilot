@@ -1,0 +1,122 @@
+{
+  "startedAt": "2026-03-16T15:03:47.808Z",
+  "packName": "electronics",
+  "mode": "generate",
+  "ok": true,
+  "thresholds": {
+    "minAcceptedTopics": 3,
+    "maxAcceptedTopics": 250,
+    "maxDuplicateRatio": 0.8,
+    "minCreatedGuidesForPublish": 1
+  },
+  "launchPolicy": {
+    "minTotalGuides": 12,
+    "minCategoriesRepresented": 3,
+    "maxDominantCategoryShare": 0.7
+  },
+  "stages": {
+    "topicBuild": {
+      "name": "topicBuild",
+      "startedAt": "2026-03-16T15:03:47.887Z",
+      "finishedAt": "2026-03-16T15:03:48.012Z",
+      "ok": true,
+      "skipped": false,
+      "reason": null
+    },
+    "guideGeneration": {
+      "name": "guideGeneration",
+      "startedAt": "2026-03-16T15:03:48.013Z",
+      "finishedAt": "2026-03-16T15:03:48.122Z",
+      "ok": true,
+      "skipped": false,
+      "reason": null
+    },
+    "publish": {
+      "name": "publish",
+      "startedAt": null,
+      "finishedAt": "2026-03-16T15:03:48.124Z",
+      "ok": true,
+      "skipped": true,
+      "reason": "Generate mode does not publish."
+    }
+  },
+  "git": {
+    "before": {
+      "branch": "master",
+      "commit": "ea7e1ac",
+      "workingTree": {
+        "ok": true,
+        "changed": true,
+        "raw": " M apps/generator/reports/latest-run.json\n M apps/topic-engine/reports/latest-run.json\n D build-pack.js\n M node_modules/.pnpm-workspace-state-v1.json\n M node_modules/.pnpm/lock.yaml\n M package.json\n M pnpm-lock.yaml\n D preview-pack.js\n D report-latest.js\n?? apps/autopilot/\n?? apps/generator/reports/run-2026-03-16T15-03-25-624Z.json\n?? apps/topic-engine/reports/topic-run-2026-03-16T15-03-25-512Z.json\n"
+      }
+    },
+    "after": {
+      "branch": "master",
+      "commit": "ea7e1ac",
+      "workingTree": {
+        "ok": true,
+        "changed": true,
+        "raw": " M apps/generator/reports/latest-run.json\n M apps/site/src/data/guides.json\n D build-pack.js\n M node_modules/.pnpm-workspace-state-v1.json\n M node_modules/.pnpm/lock.yaml\n M package.json\n M pnpm-lock.yaml\n D preview-pack.js\n D report-latest.js\n?? apps/autopilot/\n?? apps/generator/reports/run-2026-03-16T15-03-25-624Z.json\n?? apps/generator/reports/run-2026-03-16T15-03-48-110Z.json\n?? apps/topic-engine/reports/topic-run-2026-03-16T15-03-25-512Z.json\n?? apps/topic-engine/reports/topic-run-2026-03-16T15-03-48-000Z.json\n"
+      }
+    }
+  },
+  "inventory": {
+    "before": {
+      "totalGuides": 24,
+      "categoriesRepresented": 6,
+      "categoryCounts": {
+        "kitchen": 6,
+        "automotive": 2,
+        "pets": 3,
+        "electronics": 3,
+        "home office": 9,
+        "outdoors": 1
+      },
+      "dominantCategory": {
+        "name": "home office",
+        "count": 9,
+        "share": 0.375
+      }
+    },
+    "after": {
+      "totalGuides": 78,
+      "categoriesRepresented": 6,
+      "categoryCounts": {
+        "kitchen": 6,
+        "automotive": 2,
+        "pets": 3,
+        "electronics": 46,
+        "home office": 20,
+        "outdoors": 1
+      },
+      "dominantCategory": {
+        "name": "electronics",
+        "count": 46,
+        "share": 0.5897435897435898
+      }
+    },
+    "launchReadiness": {
+      "launchSafe": true,
+      "warnings": []
+    }
+  },
+  "outputs": {
+    "generatedPackPath": "/home/tre/projects/commerce-autopilot/apps/topic-engine/generated-packs/electronics.txt",
+    "topicTotals": {
+      "generated": 57,
+      "accepted": 54,
+      "duplicates": 3,
+      "lowScore": 0
+    },
+    "generatorTotals": {
+      "received": 54,
+      "processed": 54,
+      "created": 54,
+      "skippedDuplicates": 0,
+      "failedValidation": 0
+    },
+    "publishSummary": null
+  },
+  "error": null,
+  "finishedAt": "2026-03-16T15:03:48.196Z"
+}

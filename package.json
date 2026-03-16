@@ -7,12 +7,15 @@
     "site:dev": "pnpm --filter site dev",
     "generator:list": "pnpm --filter generator generate:list",
     "generator:report": "pnpm --filter generator generate:report",
-    "controller:sample": "pnpm --filter controller run sample",
-    "controller:pack": "pnpm --filter controller run pack",
-    "controller:publish": "pnpm --filter controller run publish",
     "controller:status": "pnpm --filter controller status",
     "topic:preview": "pnpm --filter topic-engine preview",
     "topic:build": "pnpm --filter topic-engine build",
-    "topic:report": "pnpm --filter topic-engine report"
+    "topic:report": "pnpm --filter topic-engine report",
+    "autopilot:preview": "pnpm --filter autopilot preview",
+    "autopilot:generate": "pnpm --filter autopilot generate",
+    "autopilot:publish": "pnpm --filter autopilot publish",
+    "autopilot:launch": "pnpm --filter autopilot launch",
+    "autopilot:resume": "pnpm --filter autopilot resume",
+    "autopilot:status": "pnpm --filter autopilot status"
   }
 }

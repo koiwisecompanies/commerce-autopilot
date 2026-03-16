@@ -1,0 +1,287 @@
+{
+  "startedAt": "2026-03-16T15:03:48.101Z",
+  "source": "bulk-file:/home/tre/projects/commerce-autopilot/apps/topic-engine/generated-packs/electronics.txt",
+  "dryRun": false,
+  "totals": {
+    "received": 54,
+    "processed": 54,
+    "created": 54,
+    "skippedDuplicates": 0,
+    "failedValidation": 0
+  },
+  "created": [
+    {
+      "topic": "Best Gaming Headset For Beginners",
+      "slug": "best-gaming-headset-for-beginners",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Mechanical Keyboard For Beginners",
+      "slug": "best-mechanical-keyboard-for-beginners",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Portable Monitor For Beginners",
+      "slug": "best-portable-monitor-for-beginners",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds For Beginners",
+      "slug": "best-wireless-earbuds-for-beginners",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse For Beginners",
+      "slug": "best-wireless-mouse-for-beginners",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Gaming Headset For Small Spaces",
+      "slug": "best-gaming-headset-for-small-spaces",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Gaming Headset For Travel",
+      "slug": "best-gaming-headset-for-travel",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Mechanical Keyboard For Small Hands",
+      "slug": "best-mechanical-keyboard-for-small-hands",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Mechanical Keyboard For Small Spaces",
+      "slug": "best-mechanical-keyboard-for-small-spaces",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Mechanical Keyboard For Travel",
+      "slug": "best-mechanical-keyboard-for-travel",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Portable Monitor For Small Hands",
+      "slug": "best-portable-monitor-for-small-hands",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Portable Monitor For Small Spaces",
+      "slug": "best-portable-monitor-for-small-spaces",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds For Small Hands",
+      "slug": "best-wireless-earbuds-for-small-hands",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds For Small Spaces",
+      "slug": "best-wireless-earbuds-for-small-spaces",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds For Travel",
+      "slug": "best-wireless-earbuds-for-travel",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse For Small Spaces",
+      "slug": "best-wireless-mouse-for-small-spaces",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse For Travel",
+      "slug": "best-wireless-mouse-for-travel",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Mechanical Keyboard For Gaming",
+      "slug": "best-mechanical-keyboard-for-gaming",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Mechanical Keyboard For Work",
+      "slug": "best-mechanical-keyboard-for-work",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Portable Monitor For Gaming",
+      "slug": "best-portable-monitor-for-gaming",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Portable Monitor For Work",
+      "slug": "best-portable-monitor-for-work",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds For Gaming",
+      "slug": "best-wireless-earbuds-for-gaming",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds For Work",
+      "slug": "best-wireless-earbuds-for-work",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse For Gaming",
+      "slug": "best-wireless-mouse-for-gaming",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse For Work",
+      "slug": "best-wireless-mouse-for-work",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Gaming Headset For Everyday Use",
+      "slug": "best-gaming-headset-for-everyday-use",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Gaming Headset For Most People",
+      "slug": "best-gaming-headset-for-most-people",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Gaming Headset For Value",
+      "slug": "best-gaming-headset-for-value",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Mechanical Keyboard For Battery Life",
+      "slug": "best-mechanical-keyboard-for-battery-life",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Mechanical Keyboard For Everyday Use",
+      "slug": "best-mechanical-keyboard-for-everyday-use",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Mechanical Keyboard For Mac",
+      "slug": "best-mechanical-keyboard-for-mac",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Portable Monitor For Battery Life",
+      "slug": "best-portable-monitor-for-battery-life",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Portable Monitor For Everyday Use",
+      "slug": "best-portable-monitor-for-everyday-use",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Portable Monitor For Mac",
+      "slug": "best-portable-monitor-for-mac",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds For Battery Life",
+      "slug": "best-wireless-earbuds-for-battery-life",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds For Everyday Use",
+      "slug": "best-wireless-earbuds-for-everyday-use",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds For Mac",
+      "slug": "best-wireless-earbuds-for-mac",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse For Battery Life",
+      "slug": "best-wireless-mouse-for-battery-life",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse For Everyday Use",
+      "slug": "best-wireless-mouse-for-everyday-use",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse For Mac",
+      "slug": "best-wireless-mouse-for-mac",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Budget Gaming Headset",
+      "slug": "best-budget-gaming-headset",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Budget Portable Monitor",
+      "slug": "best-budget-portable-monitor",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Budget Wireless Earbuds",
+      "slug": "best-budget-wireless-earbuds",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Budget Wireless Mouse",
+      "slug": "best-budget-wireless-mouse",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Gaming Headset Under 50",
+      "slug": "best-gaming-headset-under-50",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Mechanical Keyboard Under 50",
+      "slug": "best-mechanical-keyboard-under-50",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Portable Monitor Under 50",
+      "slug": "best-portable-monitor-under-50",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds Under 50",
+      "slug": "best-wireless-earbuds-under-50",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse Under 50",
+      "slug": "best-wireless-mouse-under-50",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Gaming Headset",
+      "slug": "best-gaming-headset",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Mechanical Keyboard",
+      "slug": "best-mechanical-keyboard",
+      "category": "Home Office"
+    },
+    {
+      "topic": "Best Portable Monitor",
+      "slug": "best-portable-monitor",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Earbuds",
+      "slug": "best-wireless-earbuds",
+      "category": "Electronics"
+    },
+    {
+      "topic": "Best Wireless Mouse",
+      "slug": "best-wireless-mouse",
+      "category": "Electronics"
+    }
+  ],
+  "skippedDuplicates": [],
+  "failedValidation": [],
+  "finishedAt": "2026-03-16T15:03:48.110Z"
+}
