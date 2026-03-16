@@ -1,0 +1,12 @@
+{
+  "mode": "preview",
+  "packName": "electronics",
+  "seedsProcessed": 5,
+  "guidesChecked": 24,
+  "totals": {
+    "generated": 57,
+    "accepted": 54,
+    "duplicates": 3,
+    "lowScore": 0
+  }
+}

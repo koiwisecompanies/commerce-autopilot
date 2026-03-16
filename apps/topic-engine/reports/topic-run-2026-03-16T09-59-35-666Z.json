@@ -1,0 +1,12 @@
+{
+  "mode": "preview",
+  "packName": "automotive",
+  "seedsProcessed": 5,
+  "guidesChecked": 24,
+  "totals": {
+    "generated": 57,
+    "accepted": 55,
+    "duplicates": 2,
+    "lowScore": 0
+  }
+}

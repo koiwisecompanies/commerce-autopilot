@@ -1,0 +1,12 @@
+{
+  "mode": "preview",
+  "packName": "pets",
+  "seedsProcessed": 5,
+  "guidesChecked": 24,
+  "totals": {
+    "generated": 60,
+    "accepted": 58,
+    "duplicates": 2,
+    "lowScore": 0
+  }
+}

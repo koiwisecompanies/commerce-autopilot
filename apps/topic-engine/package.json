@@ -1,0 +1,15 @@
+{
+  "name": "topic-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "preview": "node preview-pack.js",
+    "build": "node build-pack.js",
+    "report": "node report-latest.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.2",
+    "slugify": "^1.6.6"
+  }
+}

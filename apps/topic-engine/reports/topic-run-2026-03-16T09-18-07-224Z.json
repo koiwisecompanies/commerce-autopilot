@@ -1,0 +1,12 @@
+{
+  "mode": "preview",
+  "packName": "kitchen",
+  "seedsProcessed": 5,
+  "guidesChecked": 24,
+  "totals": {
+    "generated": 60,
+    "accepted": 55,
+    "duplicates": 5,
+    "lowScore": 0
+  }
+}

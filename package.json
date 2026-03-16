@@ -10,6 +10,9 @@
     "controller:sample": "pnpm --filter controller run sample",
     "controller:pack": "pnpm --filter controller run pack",
     "controller:publish": "pnpm --filter controller run publish",
-    "controller:status": "pnpm --filter controller status"
+    "controller:status": "pnpm --filter controller status",
+    "topic:preview": "pnpm --filter topic-engine preview",
+    "topic:build": "pnpm --filter topic-engine build",
+    "topic:report": "pnpm --filter topic-engine report"
   }
 }

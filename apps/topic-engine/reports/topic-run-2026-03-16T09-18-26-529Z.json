@@ -1,0 +1,13 @@
+{
+  "mode": "build",
+  "packName": "kitchen",
+  "seedsProcessed": 5,
+  "guidesChecked": 24,
+  "totals": {
+    "generated": 60,
+    "accepted": 55,
+    "duplicates": 5,
+    "lowScore": 0
+  },
+  "outputFile": "/home/tre/projects/commerce-autopilot/apps/topic-engine/generated-packs/kitchen.txt"
+}

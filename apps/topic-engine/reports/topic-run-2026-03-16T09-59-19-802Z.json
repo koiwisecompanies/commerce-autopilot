@@ -1,0 +1,12 @@
+{
+  "mode": "preview",
+  "packName": "home-office",
+  "seedsProcessed": 5,
+  "guidesChecked": 24,
+  "totals": {
+    "generated": 60,
+    "accepted": 56,
+    "duplicates": 4,
+    "lowScore": 0
+  }
+}
