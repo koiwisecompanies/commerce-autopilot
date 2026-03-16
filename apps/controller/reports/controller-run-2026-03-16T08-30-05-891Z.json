@@ -1,0 +1,64 @@
+{
+  "startedAt": "2026-03-16T08:30:05.657Z",
+  "packName": "sample",
+  "mode": "dry-run",
+  "packFile": "/home/tre/projects/commerce-autopilot/apps/generator/data/sample-topics.txt",
+  "generator": {
+    "ok": true,
+    "code": 0,
+    "generatorReport": {
+      "startedAt": "2026-03-16T08:30:05.812Z",
+      "source": "bulk-file:/home/tre/projects/commerce-autopilot/apps/generator/data/sample-topics.txt",
+      "dryRun": true,
+      "totals": {
+        "received": 5,
+        "processed": 5,
+        "created": 0,
+        "skippedDuplicates": 5,
+        "failedValidation": 0
+      },
+      "created": [],
+      "skippedDuplicates": [
+        {
+          "topic": "Best Budget Mechanical Keyboard",
+          "slug": "best-budget-mechanical-keyboard"
+        },
+        {
+          "topic": "Best Travel Backpack For Work",
+          "slug": "best-travel-backpack-for-work"
+        },
+        {
+          "topic": "Best Cat Water Fountain",
+          "slug": "best-cat-water-fountain"
+        },
+        {
+          "topic": "Best Portable Monitor For Travel",
+          "slug": "best-portable-monitor-for-travel"
+        },
+        {
+          "topic": "Best Desk Lamp For Small Office",
+          "slug": "best-desk-lamp-for-small-office"
+        }
+      ],
+      "failedValidation": [],
+      "finishedAt": "2026-03-16T08:30:05.813Z"
+    }
+  },
+  "workingTreeBefore": {
+    "ok": true,
+    "changed": true,
+    "raw": " M node_modules/.pnpm-workspace-state-v1.json\n M node_modules/.pnpm/lock.yaml\n M package.json\n M pnpm-lock.yaml\n?? apps/controller/\n?? node_modules/.pnpm/node_modules/controller\n"
+  },
+  "workingTreeAfter": {
+    "ok": true,
+    "changed": true,
+    "raw": " M apps/generator/reports/latest-run.json\n M node_modules/.pnpm-workspace-state-v1.json\n M node_modules/.pnpm/lock.yaml\n M package.json\n M pnpm-lock.yaml\n?? apps/controller/\n?? apps/generator/reports/run-2026-03-16T08-30-05-814Z.json\n?? node_modules/.pnpm/node_modules/controller\n"
+  },
+  "publish": {
+    "skipped": true,
+    "reason": "Dry run mode."
+  },
+  "ok": true,
+  "error": null,
+  "finishedAt": "2026-03-16T08:30:05.891Z"
+}

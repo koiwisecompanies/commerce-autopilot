@@ -1,0 +1,69 @@
+{
+  "startedAt": "2026-03-16T08:32:15.373Z",
+  "packName": "home-office",
+  "mode": "generate-only",
+  "packFile": "/home/tre/projects/commerce-autopilot/apps/generator/data/home-office-topics.txt",
+  "generator": {
+    "ok": true,
+    "code": 0,
+    "generatorReport": {
+      "startedAt": "2026-03-16T08:32:15.544Z",
+      "source": "bulk-file:/home/tre/projects/commerce-autopilot/apps/generator/data/home-office-topics.txt",
+      "dryRun": false,
+      "totals": {
+        "received": 5,
+        "processed": 5,
+        "created": 5,
+        "skippedDuplicates": 0,
+        "failedValidation": 0
+      },
+      "created": [
+        {
+          "topic": "Best Standing Desk For Small Spaces",
+          "slug": "best-standing-desk-for-small-spaces",
+          "category": "Home Office"
+        },
+        {
+          "topic": "Best Budget Office Chair For Back Support",
+          "slug": "best-budget-office-chair-for-back-support",
+          "category": "Home Office"
+        },
+        {
+          "topic": "Best Monitor Arm For Dual Screens",
+          "slug": "best-monitor-arm-for-dual-screens",
+          "category": "Home Office"
+        },
+        {
+          "topic": "Best Desk Lamp For Long Work Sessions",
+          "slug": "best-desk-lamp-for-long-work-sessions",
+          "category": "Home Office"
+        },
+        {
+          "topic": "Best Laptop Stand For Remote Work",
+          "slug": "best-laptop-stand-for-remote-work",
+          "category": "Home Office"
+        }
+      ],
+      "skippedDuplicates": [],
+      "failedValidation": [],
+      "finishedAt": "2026-03-16T08:32:15.548Z"
+    }
+  },
+  "workingTreeBefore": {
+    "ok": true,
+    "changed": true,
+    "raw": " M apps/generator/reports/latest-run.json\n M node_modules/.pnpm-workspace-state-v1.json\n M node_modules/.pnpm/lock.yaml\n M package.json\n M pnpm-lock.yaml\n?? apps/controller/\n?? apps/generator/reports/run-2026-03-16T08-30-05-814Z.json\n?? apps/generator/reports/run-2026-03-16T08-31-20-249Z.json\n?? node_modules/.pnpm/node_modules/controller\n"
+  },
+  "workingTreeAfter": {
+    "ok": true,
+    "changed": true,
+    "raw": " M apps/generator/reports/latest-run.json\n M apps/site/src/data/guides.json\n M node_modules/.pnpm-workspace-state-v1.json\n M node_modules/.pnpm/lock.yaml\n M package.json\n M pnpm-lock.yaml\n?? apps/controller/\n?? apps/generator/reports/run-2026-03-16T08-30-05-814Z.json\n?? apps/generator/reports/run-2026-03-16T08-31-20-249Z.json\n?? apps/generator/reports/run-2026-03-16T08-32-15-548Z.json\n?? node_modules/.pnpm/node_modules/controller\n"
+  },
+  "publish": {
+    "skipped": true,
+    "reason": "Generate-only mode."
+  },
+  "ok": true,
+  "error": null,
+  "finishedAt": "2026-03-16T08:32:15.623Z"
+}

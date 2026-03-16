@@ -8,6 +8,12 @@ importers:
 
   .: {}
 
+  apps/controller:
+    dependencies:
+      fs-extra:
+        specifier: ^11.3.2
+        version: 11.3.4
+
   apps/generator:
     dependencies:
       axios:

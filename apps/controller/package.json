@@ -1,0 +1,13 @@
+{
+  "name": "controller",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "run": "node controller-run.js",
+    "status": "node controller-status.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.2"
+  }
+}

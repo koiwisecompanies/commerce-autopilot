@@ -1,13 +1,15 @@
 {
   "name": "commerce-autopilot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@10.32.1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "packageManager": "pnpm@10.32.1"
+    "site:dev": "pnpm --filter site dev",
+    "generator:list": "pnpm --filter generator generate:list",
+    "generator:report": "pnpm --filter generator generate:report",
+    "controller:sample": "pnpm --filter controller run sample",
+    "controller:pack": "pnpm --filter controller run pack",
+    "controller:publish": "pnpm --filter controller run publish",
+    "controller:status": "pnpm --filter controller status"
+  }
 }
