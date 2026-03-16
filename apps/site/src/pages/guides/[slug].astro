@@ -1,0 +1,23 @@
+---
+import GuideLayout from "../../layouts/GuideLayout.astro";
+import guides from "../../data/guides.json";
+
+export async function getStaticPaths() {
+  return guides.map((guide) => ({
+    params: { slug: guide.slug },
+    props: { guide }
+  }));
+}
+
+const { guide } = Astro.props;
+---
+
+<GuideLayout
+  title={guide.title}
+  description={guide.description}
+  intro={guide.intro}
+  products={guide.products}
+  buyingGuide={guide.buyingGuide}
+  faqQuestion={guide.faqQuestion}
+  faqAnswer={guide.faqAnswer}
+/>

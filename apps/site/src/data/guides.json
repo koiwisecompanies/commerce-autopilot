@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "best-portable-blender",
+    "title": "Best Portable Blender for Protein Shakes",
+    "description": "Discover the best portable blenders for protein shakes, travel, and gym use.",
+    "intro": "Portable blenders make it easy to prepare protein shakes, smoothies, and healthy drinks anywhere. Below are the best portable blenders available right now.",
+    "buyingGuide": "When choosing a portable blender, consider battery life, motor power, blade durability, and portability. The best models allow you to blend smoothies quickly while remaining lightweight enough to carry in a gym bag or backpack.",
+    "faqQuestion": "Are portable blenders powerful enough for protein powder?",
+    "faqAnswer": "Yes. Most portable blenders easily mix protein powder and soft fruits. For frozen ingredients, choose models with stronger motors.",
+    "products": [
+      {
+        "title": "BlendJet Portable Blender",
+        "description": "A powerful USB rechargeable blender perfect for smoothies and protein shakes.",
+        "link": "#"
+      },
+      {
+        "title": "PopBabies Portable Blender",
+        "description": "Compact travel blender ideal for gym bags and small kitchens.",
+        "link": "#"
+      },
+      {
+        "title": "COKUNST Portable Blender",
+        "description": "Affordable portable blender with strong motor and lightweight design.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "slug": "best-car-phone-mount",
+    "title": "Best Car Phone Mount for iPhone",
+    "description": "Find the best car phone mounts for safer driving and hands-free navigation.",
+    "intro": "A good car phone mount keeps your phone secure, visible, and easy to access while driving. Below are some of the best options for iPhone users.",
+    "buyingGuide": "Look for a car phone mount with strong grip, easy installation, adjustable viewing angles, and compatibility with your dashboard, windshield, or air vent.",
+    "faqQuestion": "Do car phone mounts damage dashboards?",
+    "faqAnswer": "Most quality mounts are designed to avoid damage when used properly, especially vent and suction-based models.",
+    "products": [
+      {
+        "title": "iOttie Easy One Touch",
+        "description": "A popular dashboard and windshield mount with strong suction and one-touch locking.",
+        "link": "#"
+      },
+      {
+        "title": "VICSEED Phone Mount",
+        "description": "A sturdy car mount with adjustable arm and reliable phone grip.",
+        "link": "#"
+      },
+      {
+        "title": "Belkin MagSafe Car Vent Mount",
+        "description": "A sleek vent-mounted option designed for iPhone users who want quick magnetic attachment.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "slug": "best-dog-harness",
+    "title": "Best Dog Harness for Hiking",
+    "description": "Explore the best dog harnesses for hiking, outdoor walks, and active dogs.",
+    "intro": "A high-quality dog harness can improve comfort, safety, and control during hikes and outdoor adventures. Here are the top options worth considering.",
+    "buyingGuide": "Choose a harness with durable materials, padded straps, secure buckles, and a fit that gives your dog freedom to move without slipping out.",
+    "faqQuestion": "Is a harness better than a collar for hiking?",
+    "faqAnswer": "Yes. For many dogs, a harness offers better control and reduces strain on the neck during long walks or hikes.",
+    "products": [
+      {
+        "title": "Ruffwear Front Range Harness",
+        "description": "A durable padded harness built for active dogs and outdoor use.",
+        "link": "#"
+      },
+      {
+        "title": "Kurgo Tru-Fit Harness",
+        "description": "A secure harness designed for comfort, training, and travel.",
+        "link": "#"
+      },
+      {
+        "title": "Rabbitgoo No-Pull Harness",
+        "description": "An affordable no-pull harness with reflective straps and easy adjustments.",
+        "link": "#"
+      }
+    ]
+  }
+]

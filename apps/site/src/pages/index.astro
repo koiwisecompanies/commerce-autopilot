@@ -1,0 +1,66 @@
+---
+import ProductCard from "../components/ProductCard.astro";
+---
+
+<html lang="en">
+<head>
+  <title>Smart Product Picks</title>
+  <meta name="description" content="Discover the best products before you buy." />
+</head>
+
+<body>
+
+<header>
+  <h1>Smart Product Picks</h1>
+  <p>Find the best products before you buy.</p>
+</header>
+
+<section>
+  <h2>Trending Guides</h2>
+
+  <div class="grid">
+
+    <ProductCard
+      title="Best Portable Blender for Protein Shakes"
+      description="Our top picks for gym-friendly portable blenders."
+      link="/guides/best-portable-blender"
+    />
+
+    <ProductCard
+      title="Best Car Phone Mount for iPhone"
+      description="Safe and stable phone mounts for driving."
+      link="/guides/best-car-phone-mount"
+    />
+
+    <ProductCard
+      title="Best Dog Harness for Hiking"
+      description="Comfortable and durable harnesses for outdoor adventures."
+      link="/guides/best-dog-harness"
+    />
+
+  </div>
+</section>
+
+</body>
+
+<style>
+
+body {
+  font-family: system-ui;
+  margin: 40px;
+  background: #f9fafb;
+}
+
+header {
+  margin-bottom: 40px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px,1fr));
+  gap: 20px;
+}
+
+</style>
+
+</html>
