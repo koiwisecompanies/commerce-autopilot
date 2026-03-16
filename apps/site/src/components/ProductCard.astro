@@ -1,32 +1,69 @@
 ---
-const { title, description, link } = Astro.props;
+const { title, description, link = "#", eyebrow = "Guide", compact = false } = Astro.props;
 ---
 
-<div class="product-card">
+<article class={`product-card ${compact ? "compact" : ""}`}>
+  <p class="eyebrow">{eyebrow}</p>
   <h3>{title}</h3>
-  <p>{description}</p>
-  <a class="btn" href={link}>View Deal</a>
-</div>
+  <p class="description">{description}</p>
+  <a class="btn" href={link}>View Guide</a>
+</article>
 
 <style>
-.product-card {
-  border: 1px solid #e5e7eb;
-  padding: 20px;
-  border-radius: 10px;
-  background: white;
-}
+  .product-card {
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-radius: 18px;
+    padding: 24px;
+    box-shadow: 0 12px 30px rgba(15, 23, 42, 0.04);
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+  }
 
-.product-card h3 {
-  margin-bottom: 10px;
-}
+  .product-card.compact {
+    padding: 20px;
+  }
 
-.btn {
-  display: inline-block;
-  margin-top: 10px;
-  background: #2563eb;
-  color: white;
-  padding: 8px 14px;
-  border-radius: 6px;
-  text-decoration: none;
-}
+  .eyebrow {
+    margin: 0 0 10px;
+    font-size: 0.78rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #2563eb;
+  }
+
+  h3 {
+    margin: 0 0 12px;
+    font-size: 1.35rem;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: #0f172a;
+  }
+
+  .description {
+    margin: 0;
+    color: #475569;
+    line-height: 1.7;
+    flex-grow: 1;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    align-self: flex-start;
+    margin-top: 18px;
+    background: #2563eb;
+    color: #ffffff;
+    padding: 10px 16px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  .btn:hover {
+    background: #1d4ed8;
+  }
 </style>

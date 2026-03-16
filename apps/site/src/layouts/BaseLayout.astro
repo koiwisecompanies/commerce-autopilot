@@ -1,0 +1,119 @@
+---
+import SiteHeader from "../components/SiteHeader.astro";
+import SiteFooter from "../components/SiteFooter.astro";
+
+const {
+  title = "Smart Product Picks",
+  description = "Discover the best products before you buy."
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#2563eb" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%232563eb'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' font-size='28' font-family='Arial' font-weight='700' fill='white'%3ESP%3C/text%3E%3C/svg%3E" />
+  </head>
+
+  <body>
+    <SiteHeader />
+    <slot />
+    <SiteFooter />
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --bg: #f8fafc;
+    --surface: #ffffff;
+    --surface-muted: #eff6ff;
+    --text: #0f172a;
+    --muted: #475569;
+    --muted-2: #64748b;
+    --border: #e2e8f0;
+    --primary: #2563eb;
+    --primary-dark: #1d4ed8;
+    --container: 1120px;
+    --shadow-soft: 0 12px 30px rgba(15, 23, 42, 0.05);
+    --radius-lg: 22px;
+    --radius-md: 18px;
+    --radius-sm: 12px;
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    line-height: 1.5;
+  }
+
+  main.container {
+    max-width: var(--container);
+    margin: 0 auto;
+    padding: 40px 20px 0;
+  }
+
+  .section-title {
+    margin: 0 0 12px;
+    font-size: clamp(1.7rem, 3vw, 2.4rem);
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    color: var(--text);
+  }
+
+  .section-copy {
+    margin: 0;
+    color: var(--muted);
+    line-height: 1.7;
+    max-width: 760px;
+  }
+
+  .grid {
+    display: grid;
+    gap: 20px;
+  }
+
+  .grid-3 {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+
+  .panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    padding: 28px;
+    box-shadow: var(--shadow-soft);
+  }
+
+  .eyebrow {
+    margin: 0 0 10px;
+    font-size: 0.78rem;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--primary);
+  }
+
+  a.text-link {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 700;
+  }
+
+  a.text-link:hover {
+    text-decoration: underline;
+  }
+</style>

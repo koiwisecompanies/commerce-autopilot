@@ -4,9 +4,11 @@
     "title": "Best Portable Blender for Protein Shakes",
     "description": "Discover the best portable blenders for protein shakes, travel, and gym use.",
     "intro": "Portable blenders make it easy to prepare protein shakes, smoothies, and healthy drinks anywhere. Below are the best portable blenders available right now.",
-    "buyingGuide": "When choosing a portable blender, consider battery life, motor power, blade durability, and portability. The best models allow you to blend smoothies quickly while remaining lightweight enough to carry in a gym bag or backpack.",
+    "buyingGuide": "When choosing a portable blender, consider battery life, motor power, blade durability, portability, and how easy it is to clean after daily use.",
     "faqQuestion": "Are portable blenders powerful enough for protein powder?",
-    "faqAnswer": "Yes. Most portable blenders easily mix protein powder and soft fruits. For frozen ingredients, choose models with stronger motors.",
+    "faqAnswer": "Yes. Most portable blenders easily mix protein powder and soft fruits. For frozen ingredients, choose models with stronger motors and sharper blades.",
+    "category": "Kitchen",
+    "featured": true,
     "products": [
       {
         "title": "BlendJet Portable Blender",
@@ -33,6 +35,8 @@
     "buyingGuide": "Look for a car phone mount with strong grip, easy installation, adjustable viewing angles, and compatibility with your dashboard, windshield, or air vent.",
     "faqQuestion": "Do car phone mounts damage dashboards?",
     "faqAnswer": "Most quality mounts are designed to avoid damage when used properly, especially vent and suction-based models.",
+    "category": "Automotive",
+    "featured": true,
     "products": [
       {
         "title": "iOttie Easy One Touch",
@@ -59,6 +63,8 @@
     "buyingGuide": "Choose a harness with durable materials, padded straps, secure buckles, and a fit that gives your dog freedom to move without slipping out.",
     "faqQuestion": "Is a harness better than a collar for hiking?",
     "faqAnswer": "Yes. For many dogs, a harness offers better control and reduces strain on the neck during long walks or hikes.",
+    "category": "Pets",
+    "featured": true,
     "products": [
       {
         "title": "Ruffwear Front Range Harness",
@@ -73,6 +79,62 @@
       {
         "title": "Rabbitgoo No-Pull Harness",
         "description": "An affordable no-pull harness with reflective straps and easy adjustments.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "slug": "best-budget-gaming-mouse",
+    "title": "Best Budget Gaming Mouse",
+    "description": "Discover the best budget gaming mice worth considering right now.",
+    "intro": "A great budget gaming mouse can still deliver speed, accuracy, and comfort without costing a fortune. These are some of the top options worth considering.",
+    "buyingGuide": "When choosing a budget gaming mouse, consider sensor performance, comfort, button durability, grip style, and software support.",
+    "faqQuestion": "What matters most in a budget gaming mouse?",
+    "faqAnswer": "Sensor accuracy, shape, and switch durability matter most. A cheaper mouse can still perform well if those basics are strong.",
+    "category": "Electronics",
+    "featured": false,
+    "products": [
+      {
+        "title": "Top Pick Option 1",
+        "description": "A highly rated option with strong customer feedback.",
+        "link": "#"
+      },
+      {
+        "title": "Top Pick Option 2",
+        "description": "A popular choice known for durability and performance.",
+        "link": "#"
+      },
+      {
+        "title": "Top Pick Option 3",
+        "description": "A budget-friendly option with solid reviews.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "slug": "best-budget-office-chair",
+    "title": "Best Budget Office Chair",
+    "description": "Discover the best budget office chairs available right now.",
+    "intro": "Below are some of the best budget office chairs worth considering for comfort, support, and long work sessions.",
+    "buyingGuide": "When choosing a budget office chair, consider lumbar support, seat comfort, height adjustment, build quality, and long-term durability.",
+    "faqQuestion": "What should I look for when buying a budget office chair?",
+    "faqAnswer": "Focus on comfort, stability, adjustability, and whether the chair supports good posture during long hours.",
+    "category": "Home Office",
+    "featured": false,
+    "products": [
+      {
+        "title": "Top Pick Option 1",
+        "description": "A highly rated option with strong customer feedback.",
+        "link": "#"
+      },
+      {
+        "title": "Top Pick Option 2",
+        "description": "A popular choice known for durability and performance.",
+        "link": "#"
+      },
+      {
+        "title": "Top Pick Option 3",
+        "description": "A budget-friendly option with solid reviews.",
         "link": "#"
       }
     ]
