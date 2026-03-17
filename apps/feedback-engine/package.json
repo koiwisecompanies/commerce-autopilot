@@ -1,0 +1,16 @@
+{
+  "name": "feedback-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "status": "node status.js",
+    "summarize": "node summarize-events.js",
+    "guides": "node guide-performance.js",
+    "categories": "node category-performance.js",
+    "modifiers": "node modifier-performance.js",
+    "audiences": "node audience-performance.js",
+    "signals": "node decision-signals.js",
+    "report": "node report-latest.js"
+  }
+}

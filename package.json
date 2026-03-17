@@ -27,6 +27,14 @@
     "signals:normalize": "pnpm --filter signal-connectors normalize",
     "signals:merge": "pnpm --filter signal-connectors merge",
     "signals:summary": "pnpm --filter signal-connectors summary",
-    "signals:report": "pnpm --filter signal-connectors report"
+    "signals:report": "pnpm --filter signal-connectors report",
+    "feedback:status": "pnpm --filter feedback-engine status",
+    "feedback:summarize": "pnpm --filter feedback-engine summarize",
+    "feedback:guides": "pnpm --filter feedback-engine guides",
+    "feedback:categories": "pnpm --filter feedback-engine categories",
+    "feedback:modifiers": "pnpm --filter feedback-engine modifiers",
+    "feedback:audiences": "pnpm --filter feedback-engine audiences",
+    "feedback:signals": "pnpm --filter feedback-engine signals",
+    "feedback:report": "pnpm --filter feedback-engine report"
   }
 }

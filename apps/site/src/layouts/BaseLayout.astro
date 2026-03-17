@@ -39,7 +39,8 @@ const meta = buildMetadata({ title, description, path, type });
     <SiteHeader />
     <slot />
     <SiteFooter />
-  </body>
+    <script is:inline src="/feedback-tracker.js"></script>
+</body>
 </html>
 
 <style is:global>

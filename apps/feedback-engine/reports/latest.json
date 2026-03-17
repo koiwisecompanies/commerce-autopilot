@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-03-17T05:27:02.503Z",
+  "totals": {
+    "events": 0,
+    "sessions": 0,
+    "guidesTracked": 0,
+    "categoriesTracked": 0,
+    "modifiersTracked": 0,
+    "audiencesTracked": 0
+  },
+  "topWinners": [],
+  "topFrictionPoints": [],
+  "topQuietOpportunities": [],
+  "topCategories": [],
+  "topModifiers": [],
+  "topAudiences": [],
+  "files": {
+    "guideFiles": {
+      "latest": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/guide-feedback.json",
+      "dated": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/guide-feedback-2026-03-17T05-27-02-504Z.json"
+    },
+    "categoryFiles": {
+      "latest": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/category-feedback.json",
+      "dated": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/category-feedback-2026-03-17T05-27-02-504Z.json"
+    },
+    "modifierFiles": {
+      "latest": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/modifier-feedback.json",
+      "dated": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/modifier-feedback-2026-03-17T05-27-02-505Z.json"
+    },
+    "audienceFiles": {
+      "latest": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/audience-feedback.json",
+      "dated": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/audience-feedback-2026-03-17T05-27-02-505Z.json"
+    },
+    "pageHealthFiles": {
+      "latest": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/page-health.json",
+      "dated": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/page-health-2026-03-17T05-27-02-505Z.json"
+    },
+    "actionSignalFiles": {
+      "latest": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/action-signals.json",
+      "dated": "/home/tre/projects/commerce-autopilot/apps/feedback-engine/summaries/action-signals-2026-03-17T05-27-02-505Z.json"
+    }
+  }
+}

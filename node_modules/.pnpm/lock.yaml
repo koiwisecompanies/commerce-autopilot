@@ -20,6 +20,8 @@ importers:
         specifier: ^11.3.2
         version: 11.3.4
 
+  apps/feedback-engine: {}
+
   apps/generator:
     dependencies:
       axios:
