@@ -35,6 +35,17 @@
     "feedback:modifiers": "pnpm --filter feedback-engine modifiers",
     "feedback:audiences": "pnpm --filter feedback-engine audiences",
     "feedback:signals": "pnpm --filter feedback-engine signals",
-    "feedback:report": "pnpm --filter feedback-engine report"
+    "feedback:report": "pnpm --filter feedback-engine report",
+    "prioritize:build": "pnpm --filter prioritization-engine build",
+    "prioritize:status": "pnpm --filter prioritization-engine status",
+    "prioritize:guides": "pnpm --filter prioritization-engine guides",
+    "prioritize:families": "pnpm --filter prioritization-engine families",
+    "prioritize:categories": "pnpm --filter prioritization-engine categories",
+    "prioritize:modifiers": "pnpm --filter prioritization-engine modifiers",
+    "prioritize:audiences": "pnpm --filter prioritization-engine audiences",
+    "prioritize:packs": "pnpm --filter prioritization-engine packs",
+    "prioritize:actions": "pnpm --filter prioritization-engine actions",
+    "prioritize:policies": "pnpm --filter prioritization-engine policies",
+    "prioritize:report": "pnpm --filter prioritization-engine report"
   }
 }

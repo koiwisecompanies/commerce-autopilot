@@ -1,0 +1,41 @@
+[
+  {
+    "packName": "electronics",
+    "category": "Electronics",
+    "topicCount": 54,
+    "relatedFamilyCount": 0,
+    "categoryPriorityScore": 0,
+    "familyOpportunityScore": 0,
+    "inventoryGapScore": 92.59,
+    "feedbackRewardScore": 60.86,
+    "dominancePenalty": 0,
+    "priorityScore": 27.62,
+    "actionClass": "deprioritize"
+  },
+  {
+    "packName": "kitchen",
+    "category": "Kitchen",
+    "topicCount": 55,
+    "relatedFamilyCount": 0,
+    "categoryPriorityScore": 0,
+    "familyOpportunityScore": 0,
+    "inventoryGapScore": 96.36,
+    "feedbackRewardScore": 49.72,
+    "dominancePenalty": 0,
+    "priorityScore": 26.3,
+    "actionClass": "deprioritize"
+  },
+  {
+    "packName": "home-office",
+    "category": "Home Office",
+    "topicCount": 56,
+    "relatedFamilyCount": 0,
+    "categoryPriorityScore": 0,
+    "familyOpportunityScore": 0,
+    "inventoryGapScore": 92.86,
+    "feedbackRewardScore": 47.71,
+    "dominancePenalty": 0,
+    "priorityScore": 25.3,
+    "actionClass": "deprioritize"
+  }
+]

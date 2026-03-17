@@ -1,0 +1,22 @@
+{
+  "name": "prioritization-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build-priorities.js",
+    "status": "node status.js",
+    "guides": "node guides.js",
+    "families": "node families.js",
+    "categories": "node categories.js",
+    "modifiers": "node modifiers.js",
+    "audiences": "node audiences.js",
+    "packs": "node packs.js",
+    "actions": "node actions.js",
+    "policies": "node policies.js",
+    "report": "node report-latest.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.2"
+  }
+}
