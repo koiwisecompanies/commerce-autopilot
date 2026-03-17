@@ -1,6 +1,9 @@
 import type { APIRoute } from "astro";
 import { appendFile, mkdir } from "node:fs/promises";
 import path from "node:path";
+import crypto from "node:crypto";
+
+export const prerender = false;
 
 const FEEDBACK_EVENTS_DIR = path.resolve(process.cwd(), "../feedback-engine/events");
 
