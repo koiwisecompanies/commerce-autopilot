@@ -1,0 +1,21 @@
+{
+  "type": "pull",
+  "pulledAt": "2026-03-17T04:03:51.714Z",
+  "packs": [
+    "automotive",
+    "electronics",
+    "home-office",
+    "kitchen",
+    "pets"
+  ],
+  "rawSignalCount": 978,
+  "sourceCounts": {
+    "google_suggest": 250,
+    "youtube_suggest": 250,
+    "duckduckgo_suggest": 0,
+    "reddit_discussion": 243,
+    "hackernews_discussion": 235
+  },
+  "connectorErrorsCount": 0,
+  "connectorErrors": []
+}

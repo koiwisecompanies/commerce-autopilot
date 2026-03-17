@@ -1,0 +1,16 @@
+{
+  "name": "signal-connectors",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "pull": "node pull-signals.js",
+    "normalize": "node normalize-signals.js",
+    "merge": "node merge-signals.js",
+    "summary": "node summary.js",
+    "report": "node report-latest.js"
+  },
+  "dependencies": {
+    "fs-extra": "^11.3.2"
+  }
+}

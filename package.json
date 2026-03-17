@@ -22,6 +22,11 @@
     "signal:snapshot": "pnpm --filter signal-engine snapshot",
     "signal:queues": "pnpm --filter signal-engine queues",
     "signal:portfolio": "pnpm --filter signal-engine portfolio",
-    "signal:report": "pnpm --filter signal-engine report"
+    "signal:report": "pnpm --filter signal-engine report",
+    "signals:pull": "pnpm --filter signal-connectors pull",
+    "signals:normalize": "pnpm --filter signal-connectors normalize",
+    "signals:merge": "pnpm --filter signal-connectors merge",
+    "signals:summary": "pnpm --filter signal-connectors summary",
+    "signals:report": "pnpm --filter signal-connectors report"
   }
 }

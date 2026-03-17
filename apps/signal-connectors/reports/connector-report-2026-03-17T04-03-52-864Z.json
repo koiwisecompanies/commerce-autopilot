@@ -1,0 +1,80 @@
+{
+  "type": "normalize",
+  "normalizedAt": "2026-03-17T04:03:52.843Z",
+  "normalizedCount": 978,
+  "categorySummary": [
+    {
+      "category": "pets",
+      "count": 184,
+      "avgMarketSignalScore": 88
+    },
+    {
+      "category": "automotive",
+      "count": 194,
+      "avgMarketSignalScore": 87
+    },
+    {
+      "category": "electronics",
+      "count": 200,
+      "avgMarketSignalScore": 87
+    },
+    {
+      "category": "home-office",
+      "count": 200,
+      "avgMarketSignalScore": 87
+    },
+    {
+      "category": "kitchen",
+      "count": 200,
+      "avgMarketSignalScore": 87
+    }
+  ],
+  "topModifiers": [
+    {
+      "modifier": "core",
+      "count": 970
+    },
+    {
+      "modifier": "for gaming",
+      "count": 5
+    },
+    {
+      "modifier": "under 100",
+      "count": 1
+    },
+    {
+      "modifier": "under 50",
+      "count": 1
+    },
+    {
+      "modifier": "for work",
+      "count": 1
+    }
+  ],
+  "topAudiences": [
+    {
+      "audience": "general",
+      "count": 928
+    },
+    {
+      "audience": "gamers",
+      "count": 40
+    },
+    {
+      "audience": "budget-buyers",
+      "count": 6
+    },
+    {
+      "audience": "travel-buyers",
+      "count": 2
+    },
+    {
+      "audience": "remote-workers",
+      "count": 1
+    },
+    {
+      "audience": "office-workers",
+      "count": 1
+    }
+  ]
+}

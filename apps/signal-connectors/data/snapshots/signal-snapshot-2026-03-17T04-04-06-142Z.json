@@ -1,0 +1,920 @@
+{
+  "generatedAt": "2026-03-17T04:04:06.109Z",
+  "mergedCount": 890,
+  "topSignals": [
+    {
+      "candidateTopic": "Best Car Phone Mount Magsafe",
+      "category": "automotive",
+      "packNames": [
+        "automotive"
+      ],
+      "seeds": [
+        "car phone mount"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:15.890Z",
+      "sampleRawTexts": [
+        "car phone mount magsafe",
+        "car phone mount magsafe"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Car Phone Mount Wireless Charger",
+      "category": "automotive",
+      "packNames": [
+        "automotive"
+      ],
+      "seeds": [
+        "car phone mount"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:15.890Z",
+      "sampleRawTexts": [
+        "car phone mount wireless charger",
+        "car phone mount wireless charger"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Dash Cam",
+      "category": "automotive",
+      "packNames": [
+        "automotive"
+      ],
+      "seeds": [
+        "dash cam"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:17.495Z",
+      "sampleRawTexts": [
+        "dash cam",
+        "dash cam"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Car Vacuum",
+      "category": "automotive",
+      "packNames": [
+        "automotive"
+      ],
+      "seeds": [
+        "car vacuum"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:18.353Z",
+      "sampleRawTexts": [
+        "car vacuum",
+        "car vacuum"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Car Vacuum Cleaner",
+      "category": "automotive",
+      "packNames": [
+        "automotive"
+      ],
+      "seeds": [
+        "car vacuum"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:18.353Z",
+      "sampleRawTexts": [
+        "car vacuum cleaner",
+        "car vacuum cleaner"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Seat Organizer",
+      "category": "automotive",
+      "packNames": [
+        "automotive"
+      ],
+      "seeds": [
+        "seat organizer"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:19.189Z",
+      "sampleRawTexts": [
+        "seat organizer",
+        "seat organizer"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Jump Starter",
+      "category": "automotive",
+      "packNames": [
+        "automotive"
+      ],
+      "seeds": [
+        "jump starter"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:19.945Z",
+      "sampleRawTexts": [
+        "jump starter",
+        "jump starter"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Jump Starter For Car",
+      "category": "automotive",
+      "packNames": [
+        "automotive"
+      ],
+      "seeds": [
+        "jump starter"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:19.945Z",
+      "sampleRawTexts": [
+        "jump starter for car",
+        "jump starter for car"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Wireless Mouse",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "wireless mouse"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:21.145Z",
+      "sampleRawTexts": [
+        "wireless mouse",
+        "wireless mouse"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Wireless Mouse And Keyboard",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "wireless mouse"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:21.145Z",
+      "sampleRawTexts": [
+        "wireless mouse and keyboard",
+        "wireless mouse and keyboard"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Wireless Mouse Not Working",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "wireless mouse"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:21.145Z",
+      "sampleRawTexts": [
+        "wireless mouse not working",
+        "wireless mouse not working"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Wireless Mouse For Macbook Air",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "wireless mouse"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:21.145Z",
+      "sampleRawTexts": [
+        "wireless mouse for macbook air",
+        "wireless mouse for macbook air"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Wireless Mouse For Ipad",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "wireless mouse"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:21.145Z",
+      "sampleRawTexts": [
+        "wireless mouse for ipad",
+        "wireless mouse for ipad"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Mechanical Keyboard",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "mechanical keyboard"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:22.895Z",
+      "sampleRawTexts": [
+        "mechanical keyboard",
+        "mechanical keyboard"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Mechanical Keyboard Switches",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "mechanical keyboard"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:22.895Z",
+      "sampleRawTexts": [
+        "mechanical keyboard switches",
+        "mechanical keyboard switches"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Mechanical Keyboard For Mac",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "mechanical keyboard"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:22.895Z",
+      "sampleRawTexts": [
+        "mechanical keyboard for mac",
+        "mechanical keyboard for mac"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Portable Monitor",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "portable monitor"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:24.062Z",
+      "sampleRawTexts": [
+        "portable monitor",
+        "portable monitor"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Portable Monitor For Laptop",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "portable monitor"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:24.062Z",
+      "sampleRawTexts": [
+        "portable monitor for laptop",
+        "portable monitor for laptop"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Portable Monitor Stand",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "portable monitor"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:24.062Z",
+      "sampleRawTexts": [
+        "portable monitor stand",
+        "portable monitor stand"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Portable Monitor For Ps5",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "portable monitor"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:24.062Z",
+      "sampleRawTexts": [
+        "portable monitor for ps5",
+        "portable monitor for ps5"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Wireless Earbuds",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "wireless earbuds"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:26.062Z",
+      "sampleRawTexts": [
+        "wireless earbuds",
+        "wireless earbuds"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Wireless Earbuds For Pc",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "wireless earbuds"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:26.062Z",
+      "sampleRawTexts": [
+        "wireless earbuds for pc",
+        "wireless earbuds for pc"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Gaming Headset",
+      "category": "electronics",
+      "packNames": [
+        "electronics"
+      ],
+      "seeds": [
+        "gaming headset"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "gamers"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:27.411Z",
+      "sampleRawTexts": [
+        "gaming headset",
+        "gaming headset"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Office Chair",
+      "category": "home-office",
+      "packNames": [
+        "home-office"
+      ],
+      "seeds": [
+        "office chair"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:28.266Z",
+      "sampleRawTexts": [
+        "office chair",
+        "office chair"
+      ],
+      "urls": []
+    },
+    {
+      "candidateTopic": "Best Standing Desk",
+      "category": "home-office",
+      "packNames": [
+        "home-office"
+      ],
+      "seeds": [
+        "standing desk"
+      ],
+      "sources": [
+        "google_suggest",
+        "youtube_suggest"
+      ],
+      "sourceTypes": [
+        "search-query",
+        "video-query"
+      ],
+      "modifiers": [
+        "core"
+      ],
+      "audiences": [
+        "general"
+      ],
+      "supportingSourceCount": 2,
+      "avgFreshnessScore": 100,
+      "avgConfidenceScore": 92,
+      "avgMarketSignalScore": 95,
+      "mergedMarketSignalScore": 100,
+      "latestCapturedAt": "2026-03-17T04:03:29.196Z",
+      "sampleRawTexts": [
+        "standing desk",
+        "standing desk"
+      ],
+      "urls": []
+    }
+  ],
+  "categorySummary": [
+    {
+      "category": "pets",
+      "count": 170,
+      "avgMarketSignalScore": 88
+    },
+    {
+      "category": "automotive",
+      "count": 183,
+      "avgMarketSignalScore": 87
+    },
+    {
+      "category": "electronics",
+      "count": 183,
+      "avgMarketSignalScore": 87
+    },
+    {
+      "category": "home-office",
+      "count": 185,
+      "avgMarketSignalScore": 87
+    },
+    {
+      "category": "kitchen",
+      "count": 169,
+      "avgMarketSignalScore": 87
+    }
+  ],
+  "modifiers": [
+    {
+      "modifier": "core",
+      "count": 890
+    }
+  ],
+  "audiences": [
+    {
+      "audience": "general",
+      "count": 890
+    }
+  ]
+}
